@@ -1,0 +1,184 @@
+\documentclass[12pt,a4paper,spanish]{article}
+\usepackage{babel}
+\usepackage[latin1]{inputenc}
+\usepackage[pdftex]{graphicx}
+
+\begin{document}
+
+\begin{figure}
+  \centering
+    \includegraphics{C:/Users/fjgimon/Downloads/logo.jpg}
+     \\ Universidad Sim\'on Bol\'ivar
+     \\ Depto. De Computaci\'on y Tecnolog\'ia de la Informaci\'on
+     \\ CI5311: Paradigmas de Modelado de Bases de Datos
+\end{figure} 
+
+\title{Universo del Discurso}
+\author{Grace Gim\'on 08-10437 \\
+        Jes\'us Mart\'inez \\
+        Julio De Abreu 05-38072}
+
+\maketitle
+
+\newpage
+
+\indent Se quiere implementar una Base de Datos para la p\'agina Web
+\emph{USBline}, a desarrollarse por la Universidad Sim\'on Bol\'ivar
+para la gesti\'on y pago en l\'inea de servicios ofrecidos a toda la
+comunidad universitaria y externa.
+\newline
+\newline
+\indent La universidad y organizaciones terceras prestan numerosos servicios, pero la comunidad atendida es extensa
+ dificultando una prestaci\'on eficiente en todo momento de estos. Por lo tanto la 
+incorporaci\'on de un sistema web para la realizaci\'on de una solicitud o pago de un servicio 
+agilizar\'ia y facilitar\'ia el d\'ia a d\'ia de todos aquellos que hacen vida 
+en la universidad. Para ello, es imprescindible la creaci\'on de una base de datos, 
+ya que s\'olo a trav\'es de ella se podr\'an almacenar integralmente los
+datos de todos los servicios involucrados, permitiendo adem\'as realizar consultas relevantes
+a los interesados.
+\newline
+\newline
+\indent Un servicio es un conjunto de actividades que buscan
+satisfacer las necesidades de una comunidad en particular. Un servicio
+puede ser pago o gratuito. Dentro de la USB existen dos tipos de
+servicios: Servicios ofrecidos por la misma universidad, y servicios
+ofrecidos por terceros dentro de la misma.
+
+\section{Punto de Vista de la Universidad}
+
+\indent Dentro de la USB existen dependencias que ofrecen distintos
+servicios a la comunidad universitaria. Dentro de la comunidad
+universitaria encontramos: Estudiantes de Pregrado, Estudiantes de
+Postgrado, Estudiantes de Cursos de Extensi\'on, Estudiantes del Ciclo
+de Iniciaci\'on Universitaria, Estudiantes del Programa PIO,
+Profesores y Empleados. Dentro de las dependencias que ofrecen
+servicios en la universidad encontramos: Direcci\'on de Admisi\'on y
+Control de Estudios (\emph{DACE}), Direcci\'on de Servicios,
+Direcci\'on de Servicios Telem\'aticos, Biblioteca Central, entre
+otros.
+\newline
+\newline
+\indent Para los servicios nos interesar\'ia conocer: el nombre del
+servicio, dependencia que lo ofrece, tipo de servicio, etc. Por
+ejemplo: la Direcci\'on de Servicios ofrece el Servicio de
+Comedores. Como es conocido, la USB es una instituci\'on de
+Educaci\'on Superior P\'ublica, por lo tanto, es su deber ofrecer
+alimentaci\'on a la comunidad que en ella habita. Para esto, la
+Universidad mantiene hoy en d\'ia tres comedores principales: El
+comedor ubicado al edificio de Matem\'aticas y Sistemas (\emph{MyS}),
+el comedor de Casa del Estudiante, y el Comedor de Casa del
+Empleado. Para los comedores nos interesar\'ia conocer: Nombre del
+Comedor, Ubicaci\'on del Comedor, N\'umero de empleados del
+comedor. Para las comidas que se sirven en los comedores se dispone de
+un men\'u diario. Este men\'u lo realiza la Direcci\'on de
+Servicios. Para el Men\'u nos interesa saber: Plato Principal, Bebida,
+Postre, Comedor donde se sirve el plato. 
+\newline
+\newline
+\indent Por otro lado, para que la comunidad acceda a este servicio,
+es necesario que se disponga de un servicio de recarga de saldo para
+pagar por el uso de los comedores. Para este servicio se podr\'ia
+requerir los siguientes datos: Informaci\'on b\'asica de la persona
+que requiere hacer la recarga del saldo, para esto es necesario
+saber si la persona es estudiante, la informaci\'on a requerir es el
+carnet, nombre y apellido, carrera que estudia. Si es Profesor, los
+datos a requerir son: Carnet, Nombre y Apellido, Departamento
+Asociado. Si es empleado, los datos a pedir son el carnet, nombre y
+apellido, Dependencia donde trabaja. Adicionalmente, se va a requerir
+de las personas la informaci\'on relacionada con la cuenta bancaria
+donde se va a debitar el monto a recargar. Por \'ultimo, se va a
+requerir el monto a recargar en el saldo respectivo.
+\newline
+\newline  
+\indent Una posible requerimiento para la aplicaci\'on podr\'ia ser
+poder ver el men\'u de la semana. Otro requerimiento podr\'ia ser,
+cu\'al(es) es(son) el(los) comedor(es) m\'as usado(s) y los menos
+usado(s), cu\'antos estudiantes  en total y en promedio usan el servicio de comedores por
+d\'ia.
+\newline
+\newline
+\indent Otro requerimiento que pudiera tener el servicio de comedores
+es que una persona pueda en cualquier momento consultar su saldo,
+as\'i como tamb\'en la recarga del mismo.
+\newline
+\newline
+\indent Otra dependencia fundamental que existe dentro de la
+Universidad es la Biblioteca Central. En este lugar se ofrecen
+diversos servicios a la comunidad universitaria. Uno de esos servicios
+es el de \emph{Pr\'estamo de Libros}. Como es conocido, la Biblioteca
+Central contiene un gran n\'umero de Libros, Revistas Cient\'ificas,
+Publicaciones Diversas que son consultadas por la comunidad, en
+especial por los estudiantes para la realizaci\'on de sus diversas
+tareas, o tambi\'en para el estudio de una asignatura
+espec\'ifica. Para que esto sea posible, las personas pueden solicitar
+el pr\'estamo de un ejemplar. Para ello se van a requerir los
+siguientes datos: Los datos personales de la persona que solicita el
+pr\'estamo,  T\'itulo del libro, Autor(es),
+C\'odigo ISBN, Editorial, N\'umero de Edici\'on, Fecha de salida,
+Fecha de Retorno. Existen distintos tipos de pr\'estamos, y \'estos se
+determinan por la cantidad de d\'ias que dure el mismo. Esto se debe a
+la ubicaci\'on del Libro. Si el libro se encuentra en el Departamento
+de Pr\'estamos Circulante, el servicio dura un tiempo corto. En caso
+contrario, dura un tiempo mayor. Es importante que todo libro debe ser devuelto a
+m\'as tardar en la Fecha de Retorno. Si la persona no retorna el libro
+prestado antes de la Fecha de Retorno, se le impondr\'a una multa que
+ser\'a calculada de acuerdo a la cantidad de d\'ias que transcurra
+desde la Fecha de Retorno hasta el momento en que la persona acuda a
+devolver el Libro Prestado. Tambi\'en, como consecuencia el status de
+la persona cambia, es decir, que no podr\'a solicitar pr\'estamos por
+un per\'iodo determinado.   
+\newline
+\newline
+\indent Una posible consulta para la aplicaci\'on podr\'ia ser que el
+estudiante pueda verificar los ejemplares que est\'an disponibles y su
+ubicaci\'on. Algo interesante con el requerimiento anterior ser\'ia
+que junto a los ejemplares disponibles, la persona tenga la opci\'on
+de seleccionar los que quiere reservar, y luego simplemente pasar por
+la recepci\'on de la Biblioteca para la entrega de los libros
+solicitados.
+\newline
+\newline
+\indent Otro requerimiento podr\'ia ser consultar los libros
+m\'as prestados y los menos prestados durante un per\'iodo
+determinado. 
+\newline
+\newline
+\indent Otro posible requerimiento podr\'ia ser que el estudiante
+chequee en linea los libros que posee, as\'i como tambi\'en las Fechas
+de Retorno de cada uno. Tambi\'en ser\'ia interesante que pudiera
+chequear si posee multas por retraso, y tener la posibilidad de pagar
+dicha multa de manera On-Line. Para esto se va a requerir toda la
+informaci\'on concerniente a una cuenta bancaria de dicha persona de
+donde se pueda debitar la deuda. Adicionalmente a esto, ser\'ia muy
+util poder conocer su status, es decir, si esta autorizado para
+solicitar pr\'estamos o si no puede hacer nuevas solicitudes por un
+per\'iodo determinado.
+\newline
+\newline
+El \'unico grafico que habia que subir era el logo de la universidad,
+asi que voy a subir el archivo para que en la direccion que coloqu\'e
+coloquen una local en su computadora.
+INFO SOBRE LATEX: 
+\newline
+Lo unico relevante que tienen que saber es el uso de los acentos, que
+como se habran dado cuenta se coloca el backslash '\' seguido de una
+comilla simple y eso antes de la letra que le quieren poner acento. No
+hace falta que tengan que hacer enter para pasar a la siguiente linea,
+pueden escribir todo seguido, que latex hace la magia de ponerlo
+bonito. El ultimo detalle es cuando finalizan un p\'arrafo, usaremos
+\newline
+\newline
+\indent para que como se den cuenta hay dos lineas de por medio, y el
+otro para la sangr\'ia. Ultimo detalle, para escribir la enne,
+\~n. Es todo lo que deben saber para escribir. Si quieren poner
+cursivas lo pueden hacer con \emph{Ejemplo cursivas}. Por ultimo, y
+muy importante, para generar el pdf: pdflatex Fase1.tex (O el nombre
+del archivo como lo tengan en la compu.)
+
+\newpage
+\section{Punto de Vista de Terceros}
+
+
+
+\end{document}
+

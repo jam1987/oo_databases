@@ -1,0 +1,27 @@
+Restricciones Expl\'icitas
+
+Diagrama Visi\'on de la Universidad Sim\'on Bol\'ivar
+\newline
+\begin{itemize}
+\item Un profesor puede dictar un mismo curso en distintos trimestres. PROFESOR CON ASIGNATURA
+\item El n\'umero de cr\'editos m\'inimo para inscribir en un trimestre es 8 y el n\'umero m\'aximo es de 16 cr\'editos. INSCRIPCION TRIMESTRAL 
+\item Si el permiso de cr\'editos es otorgado entonces el n\'umero de cr\'editos no es necesariamente ni 8 cr\'editos como l\'imite inferior ni 16 como superior. INSCRIPCION TRIMESTRAL
+\item Toda aula que est\'a siendo utilizada por los Cursos de Extensi\'on entonces no puede estar asignada a las asignaturas dadas por DACE. CURSO (EXTENSION)
+\item Un mismo Profesor  de Extensi\'on puede dictar un Curso de Extensi\'on en una misma secci\'on en distintos trimestres. (PROFESOR EXTENSION Y CURSO)
+\item De los Profesores de Extensi\'on, el 50 por ciento deben ser Profesores de la USB. PROFESOR EXTENSION
+\item La fecha de retorno de un pr\'estamo de biblioteca es derivada de la siguiente forma: Si el tipo de pr\'estamo es n\'umero 1 entonces la fecha de retorno es cinco d\'ias adicionales a la fecha de salida, de ser del tipo n\'umero 2, entonces la fecha de retorno es diez d\'ias adicionales a la fecha de salida. (PRESTAMO DE LIBROS)
+\item Si la persona ha realizado un pr\'estamo y no realiza la devoluci\'on del libro en una fecha menor o igual a la fecha de retorno, entonces se le acredita una multa y el estado del estudiante cambia a ser "No Autorizado". (PERSONA)
+\item Por cada d\'ia que un estudiante que tenga multa no realiza su pago, la fecha final de la penalizaci\'on aumenta. (PERSONA)
+\item Al realizar el pago de la multa y se finaliza el plazo de penalizaci\'on, el estado del estudiante ahora es "Autorizado". (PERSONA)
+\item Los servicios que son ofertados por las Dependencias USB no son ofrecidos por Organizaciones.
+\end{itemize}
+
+\newline
+\newline
+Diagrama Visi\'on Terceros
+\newline
+\begin{itemize}
+\item Las encargas de materiales para su reproducci\'on s\'olo pueden ser realizados por profesores o estudiantes de la Universidad Sim\'on Bol\'ivar. (PROFESOR, ESTUDIANTE)
+\item La fecha y hora de entrega de los materiales encargados para reproducci\'on o impresos es calculado seg\'un la cantidad de impresiones que no han sido entregadas actualmente. (SOLICITUD DE SERVICIOS) 
+\item El arancel a cancelar viene dado por el producto entre una unidad Tributaria y un factor. (PAGO DE ARANCEL)
+\end{itemize}

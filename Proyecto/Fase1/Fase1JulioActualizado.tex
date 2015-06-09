@@ -1,0 +1,343 @@
+\documentclass[12pt,a4paper,spanish]{article}
+\usepackage{babel}
+\usepackage[latin1]{inputenc}
+\usepackage[pdftex]{graphicx}
+
+\begin{document}
+
+\begin{figure}
+  \centering
+    \includegraphics{/Users/Julio/Downloads/logo.jpg}
+     \\ Universidad Sim\'on Bol\'ivar
+     \\ Depto. De Computaci\'on y Tecnolog\'ia de la Informaci\'on
+     \\ CI5311: Paradigmas de Modelado de Bases de Datos
+\end{figure} 
+
+\title{Universo del Discurso}
+\author{Grace Gim\'on 08-10437 \\
+        Jes\'us Mart\'inez \\
+        Julio De Abreu 05-38072}
+
+\maketitle
+
+\newpage
+
+\indent Se quiere implementar una Base de Datos para la p\'agina Web
+\emph{USBline}, a desarrollarse por la Universidad Sim\'on Bol\'ivar
+para la gesti\'on y pago en l\'inea de servicios ofrecidos a toda la
+comunidad universitaria y externa.
+\newline
+\newline
+\indent La universidad y organizaciones terceras prestan numerosos servicios, pero la comunidad atendida es extensa
+ dificultando una prestaci\'on eficiente en todo momento de estos. Por lo tanto la 
+incorporaci\'on de un sistema web para la realizaci\'on de una solicitud o pago de un servicio 
+agilizar\'ia y facilitar\'ia el d\'ia a d\'ia de todos aquellos que hacen vida 
+en la universidad. Para ello, es imprescindible la creaci\'on de una base de datos, 
+ya que s\'olo a trav\'es de ella se podr\'an almacenar integralmente los
+datos de todos los servicios involucrados, permitiendo adem\'as realizar consultas relevantes
+a los interesados.
+\newline
+\newline
+\indent Un servicio es un conjunto de actividades que buscan
+satisfacer las necesidades de una comunidad en particular. Un servicio
+puede ser pago o gratuito. Dentro de la USB existen dos tipos de
+servicios: Servicios ofrecidos por la misma universidad, y servicios
+ofrecidos por terceros dentro de la misma.
+
+\section{Punto de Vista de la Universidad}
+
+\indent Dentro de la USB existen dependencias que ofrecen distintos
+servicios a la comunidad universitaria. Dentro de la comunidad
+universitaria encontramos: Estudiantes de Pregrado, Estudiantes de
+Postgrado, Estudiantes de Cursos de Extensi\'on, Estudiantes del Ciclo
+de Iniciaci\'on Universitaria, Estudiantes del Programa PIO,
+Profesores y Empleados. Dentro de las dependencias que ofrecen
+servicios en la universidad encontramos: Direcci\'on de Admisi\'on y
+Control de Estudios (\emph{DACE}), Direcci\'on de Servicios,
+Direcci\'on de Servicios Telem\'aticos, Biblioteca Central, entre
+otros.
+\newline
+\newline
+\indent Para los servicios nos interesar\'ia conocer: el nombre del
+servicio, dependencia que lo ofrece, tipo de servicio, etc. Por
+ejemplo: la Direcci\'on de Servicios ofrece el Servicio de
+Comedores. Como es conocido, la USB es una instituci\'on de
+Educaci\'on Superior P\'ublica, por lo tanto, es su deber ofrecer
+alimentaci\'on a la comunidad que en ella habita. Para esto, la
+Universidad mantiene hoy en d\'ia tres comedores principales: El
+comedor ubicado al edificio de Matem\'aticas y Sistemas (\emph{MyS}),
+el comedor de Casa del Estudiante, y el Comedor de Casa del
+Empleado. Para los comedores nos interesar\'ia conocer: Nombre del
+Comedor, Ubicaci\'on del Comedor, N\'umero de empleados del
+comedor. Para las comidas que se sirven en los comedores se dispone de
+un men\'u diario. Este men\'u lo realiza la Direcci\'on de
+Servicios. Para el Men\'u nos interesa saber: Plato Principal, Bebida,
+Postre, Comedor donde se sirve el plato. 
+\newline
+\newline
+\indent Por otro lado, para que la comunidad acceda a este servicio,
+es necesario que se disponga de un servicio de recarga de saldo para
+pagar por el uso de los comedores. Para este servicio se podr\'ia
+requerir los siguientes datos: Informaci\'on b\'asica de la persona
+que requiere hacer la recarga del saldo, para esto es necesario
+saber si la persona es estudiante, la informaci\'on a requerir es el
+carnet, nombre y apellido, carrera que estudia. Si es Profesor, los
+datos a requerir son: Carnet, Nombre y Apellido, Departamento
+Asociado. Si es empleado, los datos a pedir son el carnet, nombre y
+apellido, Dependencia donde trabaja. Adicionalmente, se va a requerir
+de las personas la informaci\'on relacionada con la cuenta bancaria
+donde se va a debitar el monto a recargar. Por \'ultimo, se va a
+requerir el monto a recargar en el saldo respectivo.
+\newline
+\newline  
+\indent Una posible requerimiento para la aplicaci\'on podr\'ia ser
+poder ver el men\'u de la semana. Otro requerimiento podr\'ia ser,
+cu\'al(es) es(son) el(los) comedor(es) m\'as usado(s) y los menos
+usado(s), cu\'antos estudiantes  en total y en promedio usan el servicio de comedores por
+d\'ia.
+\newline
+\newline
+\indent Otro requerimiento que pudiera tener el servicio de comedores
+es que una persona pueda en cualquier momento consultar su saldo,
+as\'i como tamb\'en la recarga del mismo.
+\newline
+\newline
+\indent Otra dependencia fundamental que existe dentro de la
+Universidad es la Biblioteca Central. En este lugar se ofrecen
+diversos servicios a la comunidad universitaria. Uno de esos servicios
+es el de \emph{Pr\'estamo de Libros}. Como es conocido, la Biblioteca
+Central contiene un gran n\'umero de Libros, Revistas Cient\'ificas,
+Publicaciones Diversas que son consultadas por la comunidad, en
+especial por los estudiantes para la realizaci\'on de sus diversas
+tareas, o tambi\'en para el estudio de una asignatura
+espec\'ifica. Para que esto sea posible, las personas pueden solicitar
+el pr\'estamo de un ejemplar. Para ello se van a requerir los
+siguientes datos: Los datos personales de la persona que solicita el
+pr\'estamo,  T\'itulo del libro, Autor(es),
+C\'odigo ISBN, Editorial, N\'umero de Edici\'on, Fecha de salida,
+Fecha de Retorno. Existen distintos tipos de pr\'estamos, y \'estos se
+determinan por la cantidad de d\'ias que dure el mismo. Esto se debe a
+la ubicaci\'on del Libro. Si el libro se encuentra en el Departamento
+de Pr\'estamos Circulante, el servicio dura un tiempo corto. En caso
+contrario, dura un tiempo mayor. Es importante que todo libro debe ser devuelto a
+m\'as tardar en la Fecha de Retorno. Si la persona no retorna el libro
+prestado antes de la Fecha de Retorno, se le impondr\'a una multa que
+ser\'a calculada de acuerdo a la cantidad de d\'ias que transcurra
+desde la Fecha de Retorno hasta el momento en que la persona acuda a
+devolver el Libro Prestado. Tambi\'en, como consecuencia el status de
+la persona cambia, es decir, que no podr\'a solicitar pr\'estamos por
+un per\'iodo determinado.   
+\newline
+\newline
+\indent Una posible consulta para la aplicaci\'on podr\'ia ser que el
+estudiante pueda verificar los ejemplares que est\'an disponibles y su
+ubicaci\'on. Algo interesante con el requerimiento anterior ser\'ia
+que junto a los ejemplares disponibles, la persona tenga la opci\'on
+de seleccionar los que quiere reservar, y luego simplemente pasar por
+la recepci\'on de la Biblioteca para la entrega de los libros
+solicitados.
+\newline
+\newline
+\indent Otro requerimiento podr\'ia ser consultar los libros
+m\'as prestados y los menos prestados durante un per\'iodo
+determinado. 
+\newline
+\newline
+\indent Otro posible requerimiento podr\'ia ser que el estudiante
+chequee en linea los libros que posee, as\'i como tambi\'en las Fechas
+de Retorno de cada uno. Tambi\'en ser\'ia interesante que pudiera
+chequear si posee multas por retraso, y tener la posibilidad de pagar
+dicha multa de manera On-Line. Para esto se va a requerir toda la
+informaci\'on concerniente a una cuenta bancaria de dicha persona de
+donde se pueda debitar la deuda. Adicionalmente a esto, ser\'ia muy
+util poder conocer su status, es decir, si esta autorizado para
+solicitar pr\'estamos o si no puede hacer nuevas solicitudes por un
+per\'iodo determinado.
+\newline
+\newline
+\indent Otro servicio que se relaciona mucho con los procesos que
+realiza DACE, es el de los cursos ofrecidos por el Decanato de
+Extensión.Como es conocido, existen otras dependencias que hacen vida
+dentro de la USB, como lo son los Decanatos. Entre ellos podemos
+mencionar: El Decanato de Estudios Generales, El Decanato de
+Investigaci\'on, y Desarrollo, El Decanato de Extensi\'on, entre
+otros. El Decanato de Extensi\'on se encarga de todos los procesos
+externos de la USB, como lo son el Programa de Pasant\'ias, Servicio
+Comunitario, Cursos de Idiomas, Programas de Emprendimiento, etc. Para
+que los cursos de Idiomas que son ofrecidos por este decanato se
+puedan llevar a cabo, es necesario el apoyo que es brindado por la
+Direci\'on de Admisi\'on y Control de Estudios (\emph{DACE}), ya que
+es esta dependencia la que maneja la disponibilidad de cupos, la
+disponibilidad de aulas para la realizaci\'on de los
+mismos. Actualmente la inscripci\'on de los cursos se realiza
+manualmente y adem\'as el pago del arancel es obligatoriamente un
+depósito, por lo tanto, la inclusi\'on en la base de datos planteada,
+de toda la informaci\'on referente al servicio de cursos de
+extensi\'on, facilitar\'ia a toda la comunidad USB a la hora de
+inscribir un curso.  Estos cursos pueden ser de Idiomas (Ingles, Italiano, Chino,
+ Japon\'es, Franc\'es, Ruso, \'Arabe, Portugu\'es) y cursos de otra
+ \'indole. Por cada curso necesitaremos el código de la materia,
+ nombre, descripción, contenido, monto y la cantidad de cupos
+ posibles. Cada curso posee asignado un profesor, un aula y
+ horario. De los profesores, nos interesa su c\'edula y nombre
+ completo, del horario, los d\'ias y horas en que se imparte el
+ curso. Las aulas ya est\'an contempladas por el proceso de
+ inscripci\'on de los estudiantes en DACE. Aquellas que al finalizar
+ dicho proceso permanezcan disponibles, ser\'an entonces asignadas a
+ este ente. Por otra parte, los cursos pertenecen a un per\'iodo del
+ año, entonces nos interesar\'ia saber en qué trimestres suelen
+ ofertarse ciertas asignaturas. 
+\newline
+\newline
+\indent Los cursos del Decanato de Extensi\'on no están reservados
+\'unicamente a los estudiantes de la universidad. Esto significa que
+cualquier persona puede inscribirse en un curso ofrecido. Por lo
+tanto, la informaci\'on que nos interesa de los inscritos, son su
+c\'edula, nombre completo, fecha de nacimiento, tel\'efonos de
+contacto (celuaar y casa) y un correo electr\'onico de uso
+frecuente. Para la inscripci\'on de los cursos se deben cumplir
+requisitos, por ejemplo, si se desea inscribir Inglés II, se debe
+tener el conocimiento impartido en Inglés I. Nos interesa entonces
+tener la informaci\'on de los requisitos que posee un curso, los
+requisitos pueden ser otros cursos anteriores o el resultado de una
+prueba de nivelaci\'on, de ésta \'ultima nos interesa saber la fecha
+de su realizaci\'on y calificaci'on obtenida. Tambi\'en sería útil
+conocer los materiales o libros que se van a emplear en el curso,
+d\'onde se pueden conseguir y su costo estimado en tiempo real. Otro
+elemento interesante ser\'ia mantener un registro de los cursos
+realizados por las personas, para as\'i facilitar el proceso de
+inscripci\'on, ya que de esa manera, se puede obtener los cursos
+aprobados para el momento que inscriba un nuevo curso que tenga como
+requisito otra asignatura antes cursada. 
+\newline
+\newline
+\indent Durante el per\'iodo de inscripci\'on entonces se debe poder
+consultar la informaci\'on más relevante sobre un curso que est\'e
+abierto. En particular, nos interesa saber si quedan cupos libres en
+tiempo real, en el caso de no haber, el curso debe ser marcado como lleno y no permitir el ingreso de nuevos inscritos. 
+\newline
+\newline
+\indent Este m\'odulo del sistema, debe tener la capacidad de
+responder las inquietudes m\'as b\'asicas a la hora de interesarse por
+un curso, entre esas podemos decir: B\'usqueda de un curso por
+categoría, nombre, profesor, c\'odigo, cantidad de cupos libres
+actualmente. La inscripci\'on debe realizarse online en alg\'un curso
+que no est\'e lleno, el pago del curso podr\'ia realizarse por
+transferencia a la cuenta Mercantil o cualquier otro mecanismo de pago
+electr\'onico ofrecido por el banco.
+\newline
+\newline
+\indent Para las aulas donde ser\'an impartidos estos cursos, es necesario conocer: capacidad, disponibilidad, ubicacion y N\'umero.
+
+
+
+El \'unico grafico que habia que subir era el logo de la universidad,
+asi que voy a subir el archivo para que en la direccion que coloqu\'e
+coloquen una local en su computadora.
+INFO SOBRE LATEX: 
+\newline
+Lo unico relevante que tienen que saber es el uso de los acentos, que
+como se habran dado cuenta se coloca el backslash '\' seguido de una
+comilla simple y eso antes de la letra que le quieren poner acento. No
+hace falta que tengan que hacer enter para pasar a la siguiente linea,
+pueden escribir todo seguido, que latex hace la magia de ponerlo
+bonito. El ultimo detalle es cuando finalizan un p\'arrafo, usaremos
+\newline
+\newline
+\indent para que como se den cuenta hay dos lineas de por medio, y el
+otro para la sangr\'ia. Ultimo detalle, para escribir la enne,
+\~n. Es todo lo que deben saber para escribir. Si quieren poner
+cursivas lo pueden hacer con \emph{Ejemplo cursivas}. Por ultimo, y
+muy importante, para generar el pdf: pdflatex Fase1.tex (O el nombre
+del archivo como lo tengan en la compu.)
+
+\newpage
+\section{Punto de Vista de Terceros}
+
+\indent En la universidad, las empresas pueden tener un espacio para
+ofrecer sus servicios. Entre los cuales nos ser\'an de inter\'es el
+Banco Mercantil y Xerox: Centro de impresiones y fotocopias. Estos pueden ser utilizados tanto por la comunidad de la USB como cualquier persona visitante a la universidad. 
+\newline
+\newline
+\indent Xerox es un establecimiento en el cual se pueden realizar
+impresiones de diversos formatos, fotocopias, se ofrecen algunos
+art\'iculos de papeler\'ia, electr\'onicos, CDs y adem\'as es un
+centro computarizado, que cuenta con unas 15 computadoras por las
+cuales es posible acceder a internet. Por otra parte, ofrece el
+servicio de reproducci\'on de gu\'ias, extractos de libros o ensayos
+que los profesores utilizan en sus clases, para todos los estudiantes
+que lo deseen, sin embargo tambi\'en los estudiantes pueden contribuir
+esta lista de materiales acad\'emicos.
+\newline
+\newline
+\indent El centro de fotocopiado e impresiones es utilizado por muchas
+personas al d\'ia. Los estudiantes imprimen trabajos, gu\'ias,
+fotocopian cuadernos, acceden a internet. Los profesores tambi\'en
+pueden hacer este tipo de actividades y adem\'as pueden solicitar
+impresi\'on de ex\'amenes, gu'ias, materiales por encargo. Los
+visitantes a la universidad pueden acceder de la misma manera a
+cualquiera de los servicios ofertados.
+\newline
+\newline
+\indent Los estudiantes y profesores son los \'unicos permitidos en
+encargar impresiones o fotocopias espec\'ificas. De ambos se debe
+registrar un correo electr\'onico, de los estudiantes nos interesa
+saber el carnet y del profesor su carnet y el Departamento Asociado.
+\newline
+\newline
+\indent Los servicios ofertados en Xerox son: Fotocopias e
+impresiones, venta de art\'iculos como: engrapadoras, sobres, hojas,
+las gu\'ias y materiales dejados para impresi\'on y alquiler de
+computadoras. De los art\'iculos de papeler\'ia, nos interesan su
+nombre, descripci\'on, costo y cantidad en stock.
+\newline
+\newline
+\indent Las impresiones pueden ser Blanco/Negro, Color, hoja oficio,
+carta y otros, nos interesa su descripci\'on y costo. Las fotocopias
+poseen un monto fijo por hoja. Las personas al hacer uso de este
+servicio piden un n\'umero y esperan su turno, por lo tanto lo que nos
+interesa es la cantidad de personas que están en espera. 
+\newline
+\newline
+\indent Con respecto a las gu\'ias dejadas para reproducci\'on, nos
+interesa nombre, descripci\'on, c\'odigo de la materia a la que est\'a
+relacionada, nombre de la persona que lo entreg\'o y el costo de la
+reproducci\'on. El proceso de impresiones y fotocopias puede tener dos
+modalidades: la persona puede solicitar la impresi\'on de un trabajo
+el cual puede cargar al sistema  indicando el n\'umero de copias que
+desea, y el otro modo es seleccionando de las gu\'ias y trabajos que
+ya est\'an en impresi\'on, alguno e indicar n\'umero de copias que
+desea. El sistema calcula, dependiendo de la cantidad de personas que
+est\'an en espera por impresiones y fotocopias, calcula un tiempo
+estimado para que el interesado vaya a recoger las fotocopias.
+\newline
+\newline
+\indent Con respecto a la cancelaci\'on de las fotocopias e
+impresiones, los estudiantes tienen dos opciones para hacerlo: la
+primera es solicitando una cantidad fija de fotocopias pag\'andolas
+por prepago por medio del Banco Mercantil y siendo acreditadas a la
+cuenta de la TAI (Tarjeta Académica Inteligente), la segunda opci\'on
+es en l\'inea por medio de la tarjeta prepago del Banco Mercantil o en
+efectivo al recoger las fotocopias.
+\newline
+\newline
+\indent Para el alquiler de computadoras, necesitamos saber el
+n\'umero de computadoras disponibles para uso, computadoras en
+funcionamiento, costo del alquiler por hora y por fracci\'on de hora. 
+\newline
+\newline
+\indent Considerando que se posee almacenada toda esta informaci\'on, las inquietudes m\'as b\'asicas que se desea puedan ser respondidas
+son: Si el centro est\'a abierto o cerrado, si hay computadoras
+disponibles para su uso, cu\'antas personas hay en espera por el
+servicio de fotocopiado e impresiones. Además de la b\'usqueda de
+cualquier servicio por cualquiera de sus propiedades.
+\newline
+\newline
+\indent Una consulta muy \'util podr\'ia ser que las personas pudieran
+saber que gu\'ias se encuentran disponibles en el stock. Para eso se
+podr\'ia aplicar una b\'usqueda por categor\'ia, por c\'odigo de
+asignaturas, por nombre de profesores, por temas, etc.
+
+
+\end{document}
+

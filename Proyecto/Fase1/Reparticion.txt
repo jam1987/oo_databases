@@ -1,0 +1,48 @@
+DACE
+1. Inscripcion pregrado (Jesus)
+
+Biblioteca
+2. Prestamo circulante (Julio)
+
+
+Servicios Generales
+3. Comedores. (Julio)
+
+DEX
+4. Inscripcion y descripcion de cursos (Grace)
+
+Externos
+5. Xerox (Grace)
+6. Banco Mercantil (Jesus)
+
+
+*****************
+
+Lineamientos del Documento
+
+1. Al inicio, incluir un párrafo introductorio con respecto a los objetivos de la BD y el alcance que
+se tiene planteado
+
+2. Contará con dos secciones principales: 
+	1. Visión de la Universidad Simón Bolívar
+	2. Visión de los Terceros
+		2.1 Visión del Tercero 1
+		2.2 Visión del Tercero 2
+		
+2. Con respecto a cada sección:
+	1. Iniciar con una introducción con respecto a los servicios que se van a tratar 
+	2. Se debe iniciar con una descripción del ente (la organización) y del servicio que se está tratando
+	3. Luego mostrar la estructura del servicio, los actores involucrados:
+		Definicion, propiedades, roles, interrelaciones (Ver pag 4 del enunciado del proyecto,
+		nos basaremos en esto)
+		Nota: Considerar qué actores de la universidad hacen uso del servicio tratado y cómo.
+	4. Describir las consultas posibles
+		Ej: De los comedores quisiéramos saber las horas, el menú, etc
+	5. Describir las aplicaciones
+		Ej: De Xerox podría solicitarse que se puedan planificar impresiones y copias y que sean entregadas
+		a una hora determinada.
+	Nota: Considerar restricciones posibles que se puedan modelar
+	
+		
+
+

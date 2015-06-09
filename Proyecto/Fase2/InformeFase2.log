@@ -1,0 +1,2007 @@
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=pdflatex 2012.4.25)  25 MAY 2012 09:38
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**\input InformeFase2.tex
+(./InformeFase2.tex
+(/usr/local/texlive/2011basic/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
+(/usr/local/texlive/2011basic/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/local/texlive/2011basic/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2008/07/06 v3.8l The Babel package
+
+(/usr/local/texlive/2011basic/texmf-dist/tex/generic/babel/spanish.ldf
+Language: spanish.ldf 2009/01/02 v5.0h Spanish support from the babel system
+
+(/usr/local/texlive/2011basic/texmf-dist/tex/generic/babel/babel.def
+File: babel.def 2008/07/06 v3.8l Babel common definitions
+\babel@savecnt=\count87
+\U@D=\dimen103
+)
+\es@datefmt=\count88
+\es@quottoks=\toks14
+\es@quotdepth=\count89
+Package babel Info: Making " an active character on input line 492.
+Package babel Info: Making . an active character on input line 585.
+Package babel Info: Making < an active character on input line 630.
+Package babel Info: Making > an active character on input line 630.
+))
+(/usr/local/texlive/2011basic/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2008/03/30 v1.1d Input encoding file
+\inpenc@prehook=\toks15
+\inpenc@posthook=\toks16
+
+(/usr/local/texlive/2011basic/texmf-dist/tex/latex/base/latin1.def
+File: latin1.def 2008/03/30 v1.1d Input encoding file
+))
+(/usr/local/texlive/2011basic/texmf-dist/tex/latex/graphics/lscape.sty
+Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
+
+(/usr/local/texlive/2011basic/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2011basic/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/usr/local/texlive/2011basic/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+(/usr/local/texlive/2011basic/texmf-dist/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+(/usr/local/texlive/2011basic/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/message (HO)
+)
+(/usr/local/texlive/2011basic/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2011/04/18 v1.20 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count90
+)))
+(/usr/local/texlive/2011basic/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2011basic/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks17
+)
+\Gin@req@height=\dimen104
+\Gin@req@width=\dimen105
+)
+(/usr/local/texlive/2011basic/texmf-dist/tex/latex/pdfpages/pdfpages.sty
+Package: pdfpages 2011/03/10 v0.4n Insert pages of external PDF documents (AM)
+
+(/usr/local/texlive/2011basic/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
+)
+(/usr/local/texlive/2011basic/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2007/08/22 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count91
+\calc@Bcount=\count92
+\calc@Adimen=\dimen106
+\calc@Bdimen=\dimen107
+\calc@Askip=\skip43
+\calc@Bskip=\skip44
+LaTeX Info: Redefining \setlength on input line 76.
+LaTeX Info: Redefining \addtolength on input line 77.
+\calc@Ccount=\count93
+\calc@Cskip=\skip45
+)
+(/usr/local/texlive/2011basic/texmf-dist/tex/latex/eso-pic/eso-pic.sty
+Package: eso-pic 2010/10/06 v2.0c eso-pic (RN)
+
+(/usr/local/texlive/2011basic/texmf-dist/tex/generic/oberdiek/atbegshi.sty
+Package: atbegshi 2011/01/30 v1.15 At begin shipout hook (HO)
+
+(/usr/local/texlive/2011basic/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+))
+(/usr/local/texlive/2011basic/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2007/01/21 v2.11 LaTeX color extensions (UK)
+
+(/usr/local/texlive/2011basic/texmf-dist/tex/latex/latexconfig/color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1337.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1341.
+Package xcolor Info: Model `RGB' extended on input line 1353.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1355.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1356.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1357.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1358.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1359.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1360.
+))
+(/usr/local/texlive/2011basic/texmf-dist/tex/latex/pdfpages/pppdftex.def
+File: pppdftex.def 2011/03/10 v0.4n Pdfpages driver for pdfTeX (AM)
+)
+\AM@pagebox=\box26
+\AM@toc@title=\toks18
+\c@AM@survey=\count94
+\AM@templatesizebox=\box27
+)
+(./InformeFase2.aux)
+\openout1 = `InformeFase2.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+
+(/usr/local/texlive/2011basic/texmf-dist/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count95
+\scratchdimen=\dimen108
+\scratchbox=\box28
+\nofMPsegments=\count96
+\nofMParguments=\count97
+\everyMPshowfont=\toks19
+\MPscratchCnt=\count98
+\MPscratchDim=\dimen109
+\MPnumerator=\count99
+\makeMPintoPDFobject=\count100
+\everyMPtoPDFconversion=\toks20
+) (/usr/local/texlive/2011basic/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2011/04/22 v0.16 Utilities of pdfTeX for LuaTeX (HO)
+
+(/usr/local/texlive/2011basic/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(/usr/local/texlive/2011basic/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
+
+(/usr/local/texlive/2011basic/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2010/08/19 v1.1 Managing graphics extensions (HO)
+
+(/usr/local/texlive/2011basic/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2011/04/07 v1.3 Defining keys (HO)
+)) (/usr/local/texlive/2011basic/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2010/12/23 v3.10 Keyval support for LaTeX options (HO)
+
+(/usr/local/texlive/2011basic/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2011/04/07 v1.13 Key value parser (HO)
+
+(/usr/local/texlive/2011basic/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2011/02/16 v1.5 Prefix for e-TeX command names (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 452.
+
+(/usr/local/texlive/2011basic/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+\AtBeginShipoutBox=\box29
+ </Users/Julio/Downloads/logo.jpg, id=1, 90.3375pt x 60.225pt>
+File: /Users/Julio/Downloads/logo.jpg Graphic file (type jpg)
+
+<use /Users/Julio/Downloads/logo.jpg>
+Package pdftex.def Info: /Users/Julio/Downloads/logo.jpg used on input line 14.
+
+(pdftex.def)             Requested size: 90.33727pt x 60.22484pt.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <14.4> on input line 26.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 26.
+ [1{/usr/local/texlive/2011basic/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
+
+ </Users/Julio/Downloads/logo.jpg>]
+(./InformeFase2.toc
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 3.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 3.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 3.
+
+Overfull \hbox (1.16685pt too wide) in paragraph at lines 7--7
+ [][] []\OT1/cmr/m/n/12 Descripci^^Son de las Cla-ses , Ope-ra-cio-nes y Res-tr
+ic-cio-nes Expl^^S^^Pci- 
+ []
+
+)
+\tf@toc=\write3
+\openout3 = `InformeFase2.toc'.
+
+ [2]
+Underfull \hbox (badness 10000) in paragraph at lines 33--59
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 33--59
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 33--59
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 33--59
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 33--59
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--312
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--312
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--312
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--312
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--312
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--312
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--312
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--312
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--312
+
+ []
+
+
+Overfull \hbox (2.18481pt too wide) in paragraph at lines 68--312
+\OT1/cmr/m/n/12 ha de ser po-si-ble rea-li-zar b^^Susque-das o con-sul-tas de i
+n-ter^^Ses ba-jo cier-tos par^^Same-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--312
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--312
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--312
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--312
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--312
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--312
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--312
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--312
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--312
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--312
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--312
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--312
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--312
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--312
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--312
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--312
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--312
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--312
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--312
+
+ []
+
+[3] [4] [5] [6] [7] [8] [9]
+Underfull \hbox (badness 10000) in paragraph at lines 315--448
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 315--448
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 315--448
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 315--448
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 315--448
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 315--448
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 315--448
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 315--448
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 315--448
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 315--448
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 315--448
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 315--448
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 315--448
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 315--448
+
+ []
+
+[10] [11] [12] [13]
+</Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Clasesyatributos.pdf, id=51, page=1
+, 794.97pt x 614.295pt>
+File: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Clasesyatributos.pdf Graphic f
+ile (type pdf)
+
+<use /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Clasesyatributos.pdf, page 1>
+Package pdftex.def Info: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Clasesyatri
+butos.pdf, page1 used on input line 454.
+(pdftex.def)             Requested size: 794.96806pt x 614.29349pt.
+File: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Clasesyatributos.pdf Graphic f
+ile (type pdf)
+
+<use /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Clasesyatributos.pdf, page 1>
+Package pdftex.def Info: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Clasesyatri
+butos.pdf, page1 used on input line 454.
+(pdftex.def)             Requested size: 598.22752pt x 462.26671pt.
+File: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Clasesyatributos.pdf Graphic f
+ile (type pdf)
+
+<use /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Clasesyatributos.pdf, page 1>
+Package pdftex.def Info: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Clasesyatri
+butos.pdf, page1 used on input line 454.
+(pdftex.def)             Requested size: 598.22752pt x 462.26671pt.
+File: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Clasesyatributos.pdf Graphic f
+ile (type pdf)
+
+<use /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Clasesyatributos.pdf, page 1>
+Package pdftex.def Info: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Clasesyatri
+butos.pdf, page1 used on input line 454.
+(pdftex.def)             Requested size: 598.22752pt x 462.26671pt.
+File: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Clasesyatributos.pdf Graphic f
+ile (type pdf)
+
+<use /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Clasesyatributos.pdf, page 1>
+Package pdftex.def Info: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Clasesyatri
+butos.pdf, page1 used on input line 454.
+(pdftex.def)             Requested size: 598.22752pt x 462.26671pt.
+
+[14 </Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Clasesyatributos.pdf>]
+</Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Clasesyatributos.pdf, id=79, page=2
+, 794.97pt x 614.295pt>
+File: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Clasesyatributos.pdf Graphic f
+ile (type pdf)
+
+<use /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Clasesyatributos.pdf, page 2>
+Package pdftex.def Info: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Clasesyatri
+butos.pdf, page2 used on input line 454.
+(pdftex.def)             Requested size: 598.22752pt x 462.26671pt.
+File: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Clasesyatributos.pdf Graphic f
+ile (type pdf)
+
+<use /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Clasesyatributos.pdf, page 2>
+Package pdftex.def Info: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Clasesyatri
+butos.pdf, page2 used on input line 454.
+(pdftex.def)             Requested size: 598.22752pt x 462.26671pt.
+File: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Clasesyatributos.pdf Graphic f
+ile (type pdf)
+
+<use /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Clasesyatributos.pdf, page 2>
+Package pdftex.def Info: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Clasesyatri
+butos.pdf, page2 used on input line 454.
+(pdftex.def)             Requested size: 598.22752pt x 462.26671pt.
+
+[15 </Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Clasesyatributos.pdf>]
+</Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Clasesyatributos.pdf, id=84, page=3
+, 794.97pt x 614.295pt>
+File: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Clasesyatributos.pdf Graphic f
+ile (type pdf)
+
+<use /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Clasesyatributos.pdf, page 3>
+Package pdftex.def Info: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Clasesyatri
+butos.pdf, page3 used on input line 454.
+(pdftex.def)             Requested size: 598.22752pt x 462.26671pt.
+File: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Clasesyatributos.pdf Graphic f
+ile (type pdf)
+
+<use /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Clasesyatributos.pdf, page 3>
+Package pdftex.def Info: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Clasesyatri
+butos.pdf, page3 used on input line 454.
+(pdftex.def)             Requested size: 598.22752pt x 462.26671pt.
+File: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Clasesyatributos.pdf Graphic f
+ile (type pdf)
+
+<use /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Clasesyatributos.pdf, page 3>
+Package pdftex.def Info: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Clasesyatri
+butos.pdf, page3 used on input line 454.
+(pdftex.def)             Requested size: 598.22752pt x 462.26671pt.
+
+[16 </Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Clasesyatributos.pdf>]
+</Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Clasesyatributos.pdf, id=89, page=4
+, 794.97pt x 614.295pt>
+File: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Clasesyatributos.pdf Graphic f
+ile (type pdf)
+
+<use /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Clasesyatributos.pdf, page 4>
+Package pdftex.def Info: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Clasesyatri
+butos.pdf, page4 used on input line 454.
+(pdftex.def)             Requested size: 598.22752pt x 462.26671pt.
+File: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Clasesyatributos.pdf Graphic f
+ile (type pdf)
+
+<use /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Clasesyatributos.pdf, page 4>
+Package pdftex.def Info: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Clasesyatri
+butos.pdf, page4 used on input line 454.
+(pdftex.def)             Requested size: 598.22752pt x 462.26671pt.
+File: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Clasesyatributos.pdf Graphic f
+ile (type pdf)
+
+<use /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Clasesyatributos.pdf, page 4>
+Package pdftex.def Info: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Clasesyatri
+butos.pdf, page4 used on input line 454.
+(pdftex.def)             Requested size: 598.22752pt x 462.26671pt.
+
+[17 </Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Clasesyatributos.pdf>]
+</Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Clasesyatributos.pdf, id=94, page=5
+, 794.97pt x 614.295pt>
+File: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Clasesyatributos.pdf Graphic f
+ile (type pdf)
+
+<use /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Clasesyatributos.pdf, page 5>
+Package pdftex.def Info: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Clasesyatri
+butos.pdf, page5 used on input line 454.
+(pdftex.def)             Requested size: 598.22752pt x 462.26671pt.
+File: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Clasesyatributos.pdf Graphic f
+ile (type pdf)
+
+<use /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Clasesyatributos.pdf, page 5>
+Package pdftex.def Info: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Clasesyatri
+butos.pdf, page5 used on input line 454.
+(pdftex.def)             Requested size: 598.22752pt x 462.26671pt.
+File: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Clasesyatributos.pdf Graphic f
+ile (type pdf)
+
+<use /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Clasesyatributos.pdf, page 5>
+Package pdftex.def Info: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Clasesyatri
+butos.pdf, page5 used on input line 454.
+(pdftex.def)             Requested size: 598.22752pt x 462.26671pt.
+
+[18 </Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Clasesyatributos.pdf>]
+</Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Clasesyatributos.pdf, id=99, page=6
+, 794.97pt x 614.295pt>
+File: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Clasesyatributos.pdf Graphic f
+ile (type pdf)
+
+<use /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Clasesyatributos.pdf, page 6>
+Package pdftex.def Info: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Clasesyatri
+butos.pdf, page6 used on input line 454.
+(pdftex.def)             Requested size: 598.22752pt x 462.26671pt.
+File: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Clasesyatributos.pdf Graphic f
+ile (type pdf)
+
+<use /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Clasesyatributos.pdf, page 6>
+Package pdftex.def Info: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Clasesyatri
+butos.pdf, page6 used on input line 454.
+(pdftex.def)             Requested size: 598.22752pt x 462.26671pt.
+File: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Clasesyatributos.pdf Graphic f
+ile (type pdf)
+
+<use /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Clasesyatributos.pdf, page 6>
+Package pdftex.def Info: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Clasesyatri
+butos.pdf, page6 used on input line 454.
+(pdftex.def)             Requested size: 598.22752pt x 462.26671pt.
+
+[19 </Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Clasesyatributos.pdf>]
+</Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Clasesyatributos.pdf, id=105, page=
+7, 794.97pt x 614.295pt>
+File: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Clasesyatributos.pdf Graphic f
+ile (type pdf)
+
+<use /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Clasesyatributos.pdf, page 7>
+Package pdftex.def Info: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Clasesyatri
+butos.pdf, page7 used on input line 454.
+(pdftex.def)             Requested size: 598.22752pt x 462.26671pt.
+File: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Clasesyatributos.pdf Graphic f
+ile (type pdf)
+
+<use /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Clasesyatributos.pdf, page 7>
+Package pdftex.def Info: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Clasesyatri
+butos.pdf, page7 used on input line 454.
+(pdftex.def)             Requested size: 598.22752pt x 462.26671pt.
+File: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Clasesyatributos.pdf Graphic f
+ile (type pdf)
+
+<use /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Clasesyatributos.pdf, page 7>
+Package pdftex.def Info: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Clasesyatri
+butos.pdf, page7 used on input line 454.
+(pdftex.def)             Requested size: 598.22752pt x 462.26671pt.
+
+[20 </Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Clasesyatributos.pdf>]
+</Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Clasesyatributos.pdf, id=110, page=
+8, 794.97pt x 614.295pt>
+File: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Clasesyatributos.pdf Graphic f
+ile (type pdf)
+
+<use /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Clasesyatributos.pdf, page 8>
+Package pdftex.def Info: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Clasesyatri
+butos.pdf, page8 used on input line 454.
+(pdftex.def)             Requested size: 598.22752pt x 462.26671pt.
+File: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Clasesyatributos.pdf Graphic f
+ile (type pdf)
+
+<use /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Clasesyatributos.pdf, page 8>
+Package pdftex.def Info: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Clasesyatri
+butos.pdf, page8 used on input line 454.
+(pdftex.def)             Requested size: 598.22752pt x 462.26671pt.
+File: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Clasesyatributos.pdf Graphic f
+ile (type pdf)
+
+<use /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Clasesyatributos.pdf, page 8>
+Package pdftex.def Info: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Clasesyatri
+butos.pdf, page8 used on input line 454.
+(pdftex.def)             Requested size: 598.22752pt x 462.26671pt.
+
+[21 </Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Clasesyatributos.pdf>]
+</Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Clasesyatributos.pdf, id=115, page=
+9, 794.97pt x 614.295pt>
+File: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Clasesyatributos.pdf Graphic f
+ile (type pdf)
+
+<use /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Clasesyatributos.pdf, page 9>
+Package pdftex.def Info: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Clasesyatri
+butos.pdf, page9 used on input line 454.
+(pdftex.def)             Requested size: 598.22752pt x 462.26671pt.
+File: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Clasesyatributos.pdf Graphic f
+ile (type pdf)
+
+<use /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Clasesyatributos.pdf, page 9>
+Package pdftex.def Info: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Clasesyatri
+butos.pdf, page9 used on input line 454.
+(pdftex.def)             Requested size: 598.22752pt x 462.26671pt.
+File: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Clasesyatributos.pdf Graphic f
+ile (type pdf)
+
+<use /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Clasesyatributos.pdf, page 9>
+Package pdftex.def Info: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Clasesyatri
+butos.pdf, page9 used on input line 454.
+(pdftex.def)             Requested size: 598.22752pt x 462.26671pt.
+
+[22 </Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Clasesyatributos.pdf>]
+</Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Clasesyatributos.pdf, id=120, page=
+10, 794.97pt x 614.295pt>
+File: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Clasesyatributos.pdf Graphic f
+ile (type pdf)
+
+<use /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Clasesyatributos.pdf, page 10>
+Package pdftex.def Info: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Clasesyatri
+butos.pdf, page10 used on input line 454.
+(pdftex.def)             Requested size: 598.22752pt x 462.26671pt.
+File: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Clasesyatributos.pdf Graphic f
+ile (type pdf)
+
+<use /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Clasesyatributos.pdf, page 10>
+Package pdftex.def Info: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Clasesyatri
+butos.pdf, page10 used on input line 454.
+(pdftex.def)             Requested size: 598.22752pt x 462.26671pt.
+File: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Clasesyatributos.pdf Graphic f
+ile (type pdf)
+
+<use /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Clasesyatributos.pdf, page 10>
+Package pdftex.def Info: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Clasesyatri
+butos.pdf, page10 used on input line 454.
+(pdftex.def)             Requested size: 598.22752pt x 462.26671pt.
+
+[23 </Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Clasesyatributos.pdf>]
+</Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Clasesyatributos.pdf, id=125, page=
+11, 794.97pt x 614.295pt>
+File: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Clasesyatributos.pdf Graphic f
+ile (type pdf)
+
+<use /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Clasesyatributos.pdf, page 11>
+Package pdftex.def Info: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Clasesyatri
+butos.pdf, page11 used on input line 454.
+(pdftex.def)             Requested size: 598.22752pt x 462.26671pt.
+File: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Clasesyatributos.pdf Graphic f
+ile (type pdf)
+
+<use /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Clasesyatributos.pdf, page 11>
+Package pdftex.def Info: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Clasesyatri
+butos.pdf, page11 used on input line 454.
+(pdftex.def)             Requested size: 598.22752pt x 462.26671pt.
+File: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Clasesyatributos.pdf Graphic f
+ile (type pdf)
+
+<use /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Clasesyatributos.pdf, page 11>
+Package pdftex.def Info: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Clasesyatri
+butos.pdf, page11 used on input line 454.
+(pdftex.def)             Requested size: 598.22752pt x 462.26671pt.
+
+[24 </Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Clasesyatributos.pdf>] [25]
+</Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Clasesoperacionesyrestricciones.pdf
+, id=136, page=1, 794.97pt x 614.295pt>
+File: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Clasesoperacionesyrestriccione
+s.pdf Graphic file (type pdf)
+
+<use /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Clasesoperacionesyrestricciones
+.pdf, page 1>
+Package pdftex.def Info: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Clasesopera
+cionesyrestricciones.pdf, page1 used on input line 457.
+(pdftex.def)             Requested size: 794.96806pt x 614.29349pt.
+File: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Clasesoperacionesyrestriccione
+s.pdf Graphic file (type pdf)
+
+<use /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Clasesoperacionesyrestricciones
+.pdf, page 1>
+Package pdftex.def Info: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Clasesopera
+cionesyrestricciones.pdf, page1 used on input line 457.
+(pdftex.def)             Requested size: 598.22752pt x 462.26671pt.
+File: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Clasesoperacionesyrestriccione
+s.pdf Graphic file (type pdf)
+
+<use /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Clasesoperacionesyrestricciones
+.pdf, page 1>
+Package pdftex.def Info: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Clasesopera
+cionesyrestricciones.pdf, page1 used on input line 457.
+(pdftex.def)             Requested size: 598.22752pt x 462.26671pt.
+File: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Clasesoperacionesyrestriccione
+s.pdf Graphic file (type pdf)
+
+<use /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Clasesoperacionesyrestricciones
+.pdf, page 1>
+Package pdftex.def Info: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Clasesopera
+cionesyrestricciones.pdf, page1 used on input line 457.
+(pdftex.def)             Requested size: 598.22752pt x 462.26671pt.
+File: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Clasesoperacionesyrestriccione
+s.pdf Graphic file (type pdf)
+
+<use /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Clasesoperacionesyrestricciones
+.pdf, page 1>
+Package pdftex.def Info: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Clasesopera
+cionesyrestricciones.pdf, page1 used on input line 457.
+(pdftex.def)             Requested size: 598.22752pt x 462.26671pt.
+ [26 </Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Clasesoperacionesyrestriccione
+s.pdf>]
+</Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Clasesoperacionesyrestricciones.pdf
+, id=165, page=2, 794.97pt x 614.295pt>
+File: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Clasesoperacionesyrestriccione
+s.pdf Graphic file (type pdf)
+
+<use /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Clasesoperacionesyrestricciones
+.pdf, page 2>
+Package pdftex.def Info: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Clasesopera
+cionesyrestricciones.pdf, page2 used on input line 457.
+(pdftex.def)             Requested size: 598.22752pt x 462.26671pt.
+File: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Clasesoperacionesyrestriccione
+s.pdf Graphic file (type pdf)
+
+<use /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Clasesoperacionesyrestricciones
+.pdf, page 2>
+Package pdftex.def Info: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Clasesopera
+cionesyrestricciones.pdf, page2 used on input line 457.
+(pdftex.def)             Requested size: 598.22752pt x 462.26671pt.
+File: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Clasesoperacionesyrestriccione
+s.pdf Graphic file (type pdf)
+
+<use /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Clasesoperacionesyrestricciones
+.pdf, page 2>
+Package pdftex.def Info: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Clasesopera
+cionesyrestricciones.pdf, page2 used on input line 457.
+(pdftex.def)             Requested size: 598.22752pt x 462.26671pt.
+ [27 </Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Clasesoperacionesyrestriccione
+s.pdf>]
+</Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Clasesoperacionesyrestricciones.pdf
+, id=170, page=3, 794.97pt x 614.295pt>
+File: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Clasesoperacionesyrestriccione
+s.pdf Graphic file (type pdf)
+
+<use /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Clasesoperacionesyrestricciones
+.pdf, page 3>
+Package pdftex.def Info: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Clasesopera
+cionesyrestricciones.pdf, page3 used on input line 457.
+(pdftex.def)             Requested size: 598.22752pt x 462.26671pt.
+File: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Clasesoperacionesyrestriccione
+s.pdf Graphic file (type pdf)
+
+<use /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Clasesoperacionesyrestricciones
+.pdf, page 3>
+Package pdftex.def Info: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Clasesopera
+cionesyrestricciones.pdf, page3 used on input line 457.
+(pdftex.def)             Requested size: 598.22752pt x 462.26671pt.
+File: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Clasesoperacionesyrestriccione
+s.pdf Graphic file (type pdf)
+
+<use /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Clasesoperacionesyrestricciones
+.pdf, page 3>
+Package pdftex.def Info: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Clasesopera
+cionesyrestricciones.pdf, page3 used on input line 457.
+(pdftex.def)             Requested size: 598.22752pt x 462.26671pt.
+ [28 </Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Clasesoperacionesyrestriccione
+s.pdf>]
+</Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Clasesoperacionesyrestricciones.pdf
+, id=175, page=4, 794.97pt x 614.295pt>
+File: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Clasesoperacionesyrestriccione
+s.pdf Graphic file (type pdf)
+
+<use /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Clasesoperacionesyrestricciones
+.pdf, page 4>
+Package pdftex.def Info: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Clasesopera
+cionesyrestricciones.pdf, page4 used on input line 457.
+(pdftex.def)             Requested size: 598.22752pt x 462.26671pt.
+File: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Clasesoperacionesyrestriccione
+s.pdf Graphic file (type pdf)
+
+<use /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Clasesoperacionesyrestricciones
+.pdf, page 4>
+Package pdftex.def Info: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Clasesopera
+cionesyrestricciones.pdf, page4 used on input line 457.
+(pdftex.def)             Requested size: 598.22752pt x 462.26671pt.
+File: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Clasesoperacionesyrestriccione
+s.pdf Graphic file (type pdf)
+
+<use /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Clasesoperacionesyrestricciones
+.pdf, page 4>
+Package pdftex.def Info: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Clasesopera
+cionesyrestricciones.pdf, page4 used on input line 457.
+(pdftex.def)             Requested size: 598.22752pt x 462.26671pt.
+ [29 </Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Clasesoperacionesyrestriccione
+s.pdf>] [30]
+</Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesygener
+alizaciones.pdf, id=185, page=1, 794.97pt x 614.295pt>
+File: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesy
+generalizaciones.pdf Graphic file (type pdf)
+
+<use /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesyg
+eneralizaciones.pdf, page 1>
+Package pdftex.def Info: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcion
+clasesasociacionesygeneralizaciones.pdf, page1 used on input line 460.
+(pdftex.def)             Requested size: 794.96806pt x 614.29349pt.
+File: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesy
+generalizaciones.pdf Graphic file (type pdf)
+
+<use /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesyg
+eneralizaciones.pdf, page 1>
+Package pdftex.def Info: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcion
+clasesasociacionesygeneralizaciones.pdf, page1 used on input line 460.
+(pdftex.def)             Requested size: 598.22752pt x 462.26671pt.
+File: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesy
+generalizaciones.pdf Graphic file (type pdf)
+
+<use /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesyg
+eneralizaciones.pdf, page 1>
+Package pdftex.def Info: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcion
+clasesasociacionesygeneralizaciones.pdf, page1 used on input line 460.
+(pdftex.def)             Requested size: 598.22752pt x 462.26671pt.
+File: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesy
+generalizaciones.pdf Graphic file (type pdf)
+
+<use /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesyg
+eneralizaciones.pdf, page 1>
+Package pdftex.def Info: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcion
+clasesasociacionesygeneralizaciones.pdf, page1 used on input line 460.
+(pdftex.def)             Requested size: 598.22752pt x 462.26671pt.
+File: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesy
+generalizaciones.pdf Graphic file (type pdf)
+
+<use /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesyg
+eneralizaciones.pdf, page 1>
+Package pdftex.def Info: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcion
+clasesasociacionesygeneralizaciones.pdf, page1 used on input line 460.
+(pdftex.def)             Requested size: 598.22752pt x 462.26671pt.
+ [31 </Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesy
+generalizaciones.pdf>]
+</Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesygener
+alizaciones.pdf, id=202, page=2, 794.97pt x 614.295pt>
+File: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesy
+generalizaciones.pdf Graphic file (type pdf)
+
+<use /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesyg
+eneralizaciones.pdf, page 2>
+Package pdftex.def Info: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcion
+clasesasociacionesygeneralizaciones.pdf, page2 used on input line 460.
+(pdftex.def)             Requested size: 598.22752pt x 462.26671pt.
+File: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesy
+generalizaciones.pdf Graphic file (type pdf)
+
+<use /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesyg
+eneralizaciones.pdf, page 2>
+Package pdftex.def Info: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcion
+clasesasociacionesygeneralizaciones.pdf, page2 used on input line 460.
+(pdftex.def)             Requested size: 598.22752pt x 462.26671pt.
+File: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesy
+generalizaciones.pdf Graphic file (type pdf)
+
+<use /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesyg
+eneralizaciones.pdf, page 2>
+Package pdftex.def Info: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcion
+clasesasociacionesygeneralizaciones.pdf, page2 used on input line 460.
+(pdftex.def)             Requested size: 598.22752pt x 462.26671pt.
+ [32 </Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesy
+generalizaciones.pdf>]
+</Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesygener
+alizaciones.pdf, id=207, page=3, 794.97pt x 614.295pt>
+File: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesy
+generalizaciones.pdf Graphic file (type pdf)
+
+<use /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesyg
+eneralizaciones.pdf, page 3>
+Package pdftex.def Info: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcion
+clasesasociacionesygeneralizaciones.pdf, page3 used on input line 460.
+(pdftex.def)             Requested size: 598.22752pt x 462.26671pt.
+File: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesy
+generalizaciones.pdf Graphic file (type pdf)
+
+<use /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesyg
+eneralizaciones.pdf, page 3>
+Package pdftex.def Info: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcion
+clasesasociacionesygeneralizaciones.pdf, page3 used on input line 460.
+(pdftex.def)             Requested size: 598.22752pt x 462.26671pt.
+File: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesy
+generalizaciones.pdf Graphic file (type pdf)
+
+<use /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesyg
+eneralizaciones.pdf, page 3>
+Package pdftex.def Info: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcion
+clasesasociacionesygeneralizaciones.pdf, page3 used on input line 460.
+(pdftex.def)             Requested size: 598.22752pt x 462.26671pt.
+ [33 </Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesy
+generalizaciones.pdf>]
+</Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesygener
+alizaciones.pdf, id=212, page=4, 794.97pt x 614.295pt>
+File: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesy
+generalizaciones.pdf Graphic file (type pdf)
+
+<use /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesyg
+eneralizaciones.pdf, page 4>
+Package pdftex.def Info: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcion
+clasesasociacionesygeneralizaciones.pdf, page4 used on input line 460.
+(pdftex.def)             Requested size: 598.22752pt x 462.26671pt.
+File: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesy
+generalizaciones.pdf Graphic file (type pdf)
+
+<use /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesyg
+eneralizaciones.pdf, page 4>
+Package pdftex.def Info: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcion
+clasesasociacionesygeneralizaciones.pdf, page4 used on input line 460.
+(pdftex.def)             Requested size: 598.22752pt x 462.26671pt.
+File: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesy
+generalizaciones.pdf Graphic file (type pdf)
+
+<use /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesyg
+eneralizaciones.pdf, page 4>
+Package pdftex.def Info: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcion
+clasesasociacionesygeneralizaciones.pdf, page4 used on input line 460.
+(pdftex.def)             Requested size: 598.22752pt x 462.26671pt.
+ [34 </Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesy
+generalizaciones.pdf>]
+</Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesygener
+alizaciones.pdf, id=217, page=5, 794.97pt x 614.295pt>
+File: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesy
+generalizaciones.pdf Graphic file (type pdf)
+
+<use /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesyg
+eneralizaciones.pdf, page 5>
+Package pdftex.def Info: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcion
+clasesasociacionesygeneralizaciones.pdf, page5 used on input line 460.
+(pdftex.def)             Requested size: 598.22752pt x 462.26671pt.
+File: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesy
+generalizaciones.pdf Graphic file (type pdf)
+
+<use /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesyg
+eneralizaciones.pdf, page 5>
+Package pdftex.def Info: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcion
+clasesasociacionesygeneralizaciones.pdf, page5 used on input line 460.
+(pdftex.def)             Requested size: 598.22752pt x 462.26671pt.
+File: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesy
+generalizaciones.pdf Graphic file (type pdf)
+
+<use /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesyg
+eneralizaciones.pdf, page 5>
+Package pdftex.def Info: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcion
+clasesasociacionesygeneralizaciones.pdf, page5 used on input line 460.
+(pdftex.def)             Requested size: 598.22752pt x 462.26671pt.
+ [35 </Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesy
+generalizaciones.pdf>]
+</Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesygener
+alizaciones.pdf, id=222, page=6, 794.97pt x 614.295pt>
+File: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesy
+generalizaciones.pdf Graphic file (type pdf)
+
+<use /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesyg
+eneralizaciones.pdf, page 6>
+Package pdftex.def Info: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcion
+clasesasociacionesygeneralizaciones.pdf, page6 used on input line 460.
+(pdftex.def)             Requested size: 598.22752pt x 462.26671pt.
+File: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesy
+generalizaciones.pdf Graphic file (type pdf)
+
+<use /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesyg
+eneralizaciones.pdf, page 6>
+Package pdftex.def Info: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcion
+clasesasociacionesygeneralizaciones.pdf, page6 used on input line 460.
+(pdftex.def)             Requested size: 598.22752pt x 462.26671pt.
+File: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesy
+generalizaciones.pdf Graphic file (type pdf)
+
+<use /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesyg
+eneralizaciones.pdf, page 6>
+Package pdftex.def Info: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcion
+clasesasociacionesygeneralizaciones.pdf, page6 used on input line 460.
+(pdftex.def)             Requested size: 598.22752pt x 462.26671pt.
+ [36 </Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesy
+generalizaciones.pdf>]
+</Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesygener
+alizaciones.pdf, id=227, page=7, 794.97pt x 614.295pt>
+File: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesy
+generalizaciones.pdf Graphic file (type pdf)
+
+<use /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesyg
+eneralizaciones.pdf, page 7>
+Package pdftex.def Info: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcion
+clasesasociacionesygeneralizaciones.pdf, page7 used on input line 460.
+(pdftex.def)             Requested size: 598.22752pt x 462.26671pt.
+File: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesy
+generalizaciones.pdf Graphic file (type pdf)
+
+<use /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesyg
+eneralizaciones.pdf, page 7>
+Package pdftex.def Info: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcion
+clasesasociacionesygeneralizaciones.pdf, page7 used on input line 460.
+(pdftex.def)             Requested size: 598.22752pt x 462.26671pt.
+File: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesy
+generalizaciones.pdf Graphic file (type pdf)
+
+<use /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesyg
+eneralizaciones.pdf, page 7>
+Package pdftex.def Info: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcion
+clasesasociacionesygeneralizaciones.pdf, page7 used on input line 460.
+(pdftex.def)             Requested size: 598.22752pt x 462.26671pt.
+ [37 </Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesy
+generalizaciones.pdf>]
+</Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesygener
+alizaciones.pdf, id=233, page=8, 794.97pt x 614.295pt>
+File: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesy
+generalizaciones.pdf Graphic file (type pdf)
+
+<use /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesyg
+eneralizaciones.pdf, page 8>
+Package pdftex.def Info: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcion
+clasesasociacionesygeneralizaciones.pdf, page8 used on input line 460.
+(pdftex.def)             Requested size: 598.22752pt x 462.26671pt.
+File: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesy
+generalizaciones.pdf Graphic file (type pdf)
+
+<use /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesyg
+eneralizaciones.pdf, page 8>
+Package pdftex.def Info: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcion
+clasesasociacionesygeneralizaciones.pdf, page8 used on input line 460.
+(pdftex.def)             Requested size: 598.22752pt x 462.26671pt.
+File: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesy
+generalizaciones.pdf Graphic file (type pdf)
+
+<use /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesyg
+eneralizaciones.pdf, page 8>
+Package pdftex.def Info: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcion
+clasesasociacionesygeneralizaciones.pdf, page8 used on input line 460.
+(pdftex.def)             Requested size: 598.22752pt x 462.26671pt.
+ [38 </Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesy
+generalizaciones.pdf>]
+</Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesygener
+alizaciones.pdf, id=238, page=9, 794.97pt x 614.295pt>
+File: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesy
+generalizaciones.pdf Graphic file (type pdf)
+
+<use /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesyg
+eneralizaciones.pdf, page 9>
+Package pdftex.def Info: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcion
+clasesasociacionesygeneralizaciones.pdf, page9 used on input line 460.
+(pdftex.def)             Requested size: 598.22752pt x 462.26671pt.
+File: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesy
+generalizaciones.pdf Graphic file (type pdf)
+
+<use /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesyg
+eneralizaciones.pdf, page 9>
+Package pdftex.def Info: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcion
+clasesasociacionesygeneralizaciones.pdf, page9 used on input line 460.
+(pdftex.def)             Requested size: 598.22752pt x 462.26671pt.
+File: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesy
+generalizaciones.pdf Graphic file (type pdf)
+
+<use /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesyg
+eneralizaciones.pdf, page 9>
+Package pdftex.def Info: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcion
+clasesasociacionesygeneralizaciones.pdf, page9 used on input line 460.
+(pdftex.def)             Requested size: 598.22752pt x 462.26671pt.
+ [39 </Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesy
+generalizaciones.pdf>]
+</Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesygener
+alizaciones.pdf, id=243, page=10, 794.97pt x 614.295pt>
+File: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesy
+generalizaciones.pdf Graphic file (type pdf)
+
+<use /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesyg
+eneralizaciones.pdf, page 10>
+Package pdftex.def Info: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcion
+clasesasociacionesygeneralizaciones.pdf, page10 used on input line 460.
+(pdftex.def)             Requested size: 598.22752pt x 462.26671pt.
+File: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesy
+generalizaciones.pdf Graphic file (type pdf)
+
+<use /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesyg
+eneralizaciones.pdf, page 10>
+Package pdftex.def Info: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcion
+clasesasociacionesygeneralizaciones.pdf, page10 used on input line 460.
+(pdftex.def)             Requested size: 598.22752pt x 462.26671pt.
+File: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesy
+generalizaciones.pdf Graphic file (type pdf)
+
+<use /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesyg
+eneralizaciones.pdf, page 10>
+Package pdftex.def Info: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcion
+clasesasociacionesygeneralizaciones.pdf, page10 used on input line 460.
+(pdftex.def)             Requested size: 598.22752pt x 462.26671pt.
+ [40 </Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesy
+generalizaciones.pdf>]
+</Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesygener
+alizaciones.pdf, id=248, page=11, 794.97pt x 614.295pt>
+File: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesy
+generalizaciones.pdf Graphic file (type pdf)
+
+<use /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesyg
+eneralizaciones.pdf, page 11>
+Package pdftex.def Info: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcion
+clasesasociacionesygeneralizaciones.pdf, page11 used on input line 460.
+(pdftex.def)             Requested size: 598.22752pt x 462.26671pt.
+File: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesy
+generalizaciones.pdf Graphic file (type pdf)
+
+<use /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesyg
+eneralizaciones.pdf, page 11>
+Package pdftex.def Info: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcion
+clasesasociacionesygeneralizaciones.pdf, page11 used on input line 460.
+(pdftex.def)             Requested size: 598.22752pt x 462.26671pt.
+File: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesy
+generalizaciones.pdf Graphic file (type pdf)
+
+<use /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesyg
+eneralizaciones.pdf, page 11>
+Package pdftex.def Info: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcion
+clasesasociacionesygeneralizaciones.pdf, page11 used on input line 460.
+(pdftex.def)             Requested size: 598.22752pt x 462.26671pt.
+ [41 </Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesy
+generalizaciones.pdf>]
+</Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesygener
+alizaciones.pdf, id=253, page=12, 794.97pt x 614.295pt>
+File: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesy
+generalizaciones.pdf Graphic file (type pdf)
+
+<use /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesyg
+eneralizaciones.pdf, page 12>
+Package pdftex.def Info: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcion
+clasesasociacionesygeneralizaciones.pdf, page12 used on input line 460.
+(pdftex.def)             Requested size: 598.22752pt x 462.26671pt.
+File: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesy
+generalizaciones.pdf Graphic file (type pdf)
+
+<use /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesyg
+eneralizaciones.pdf, page 12>
+Package pdftex.def Info: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcion
+clasesasociacionesygeneralizaciones.pdf, page12 used on input line 460.
+(pdftex.def)             Requested size: 598.22752pt x 462.26671pt.
+File: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesy
+generalizaciones.pdf Graphic file (type pdf)
+
+<use /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesyg
+eneralizaciones.pdf, page 12>
+Package pdftex.def Info: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcion
+clasesasociacionesygeneralizaciones.pdf, page12 used on input line 460.
+(pdftex.def)             Requested size: 598.22752pt x 462.26671pt.
+ [42 </Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesy
+generalizaciones.pdf>]
+</Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesygener
+alizaciones.pdf, id=258, page=13, 794.97pt x 614.295pt>
+File: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesy
+generalizaciones.pdf Graphic file (type pdf)
+
+<use /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesyg
+eneralizaciones.pdf, page 13>
+Package pdftex.def Info: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcion
+clasesasociacionesygeneralizaciones.pdf, page13 used on input line 460.
+(pdftex.def)             Requested size: 598.22752pt x 462.26671pt.
+File: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesy
+generalizaciones.pdf Graphic file (type pdf)
+
+<use /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesyg
+eneralizaciones.pdf, page 13>
+Package pdftex.def Info: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcion
+clasesasociacionesygeneralizaciones.pdf, page13 used on input line 460.
+(pdftex.def)             Requested size: 598.22752pt x 462.26671pt.
+File: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesy
+generalizaciones.pdf Graphic file (type pdf)
+
+<use /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesyg
+eneralizaciones.pdf, page 13>
+Package pdftex.def Info: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcion
+clasesasociacionesygeneralizaciones.pdf, page13 used on input line 460.
+(pdftex.def)             Requested size: 598.22752pt x 462.26671pt.
+ [43 </Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesy
+generalizaciones.pdf>]
+</Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesygener
+alizaciones.pdf, id=264, page=14, 794.97pt x 614.295pt>
+File: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesy
+generalizaciones.pdf Graphic file (type pdf)
+
+<use /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesyg
+eneralizaciones.pdf, page 14>
+Package pdftex.def Info: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcion
+clasesasociacionesygeneralizaciones.pdf, page14 used on input line 460.
+(pdftex.def)             Requested size: 598.22752pt x 462.26671pt.
+File: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesy
+generalizaciones.pdf Graphic file (type pdf)
+
+<use /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesyg
+eneralizaciones.pdf, page 14>
+Package pdftex.def Info: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcion
+clasesasociacionesygeneralizaciones.pdf, page14 used on input line 460.
+(pdftex.def)             Requested size: 598.22752pt x 462.26671pt.
+File: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesy
+generalizaciones.pdf Graphic file (type pdf)
+
+<use /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesyg
+eneralizaciones.pdf, page 14>
+Package pdftex.def Info: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcion
+clasesasociacionesygeneralizaciones.pdf, page14 used on input line 460.
+(pdftex.def)             Requested size: 598.22752pt x 462.26671pt.
+ [44 </Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesy
+generalizaciones.pdf>]
+</Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesygener
+alizaciones.pdf, id=269, page=15, 794.97pt x 614.295pt>
+File: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesy
+generalizaciones.pdf Graphic file (type pdf)
+
+<use /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesyg
+eneralizaciones.pdf, page 15>
+Package pdftex.def Info: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcion
+clasesasociacionesygeneralizaciones.pdf, page15 used on input line 460.
+(pdftex.def)             Requested size: 598.22752pt x 462.26671pt.
+File: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesy
+generalizaciones.pdf Graphic file (type pdf)
+
+<use /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesyg
+eneralizaciones.pdf, page 15>
+Package pdftex.def Info: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcion
+clasesasociacionesygeneralizaciones.pdf, page15 used on input line 460.
+(pdftex.def)             Requested size: 598.22752pt x 462.26671pt.
+File: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesy
+generalizaciones.pdf Graphic file (type pdf)
+
+<use /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesyg
+eneralizaciones.pdf, page 15>
+Package pdftex.def Info: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcion
+clasesasociacionesygeneralizaciones.pdf, page15 used on input line 460.
+(pdftex.def)             Requested size: 598.22752pt x 462.26671pt.
+ [45 </Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesy
+generalizaciones.pdf>]
+</Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesygener
+alizaciones.pdf, id=274, page=16, 794.97pt x 614.295pt>
+File: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesy
+generalizaciones.pdf Graphic file (type pdf)
+
+<use /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesyg
+eneralizaciones.pdf, page 16>
+Package pdftex.def Info: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcion
+clasesasociacionesygeneralizaciones.pdf, page16 used on input line 460.
+(pdftex.def)             Requested size: 598.22752pt x 462.26671pt.
+File: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesy
+generalizaciones.pdf Graphic file (type pdf)
+
+<use /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesyg
+eneralizaciones.pdf, page 16>
+Package pdftex.def Info: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcion
+clasesasociacionesygeneralizaciones.pdf, page16 used on input line 460.
+(pdftex.def)             Requested size: 598.22752pt x 462.26671pt.
+File: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesy
+generalizaciones.pdf Graphic file (type pdf)
+
+<use /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesyg
+eneralizaciones.pdf, page 16>
+Package pdftex.def Info: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcion
+clasesasociacionesygeneralizaciones.pdf, page16 used on input line 460.
+(pdftex.def)             Requested size: 598.22752pt x 462.26671pt.
+ [46 </Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesy
+generalizaciones.pdf>]
+</Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesygener
+alizaciones.pdf, id=279, page=17, 794.97pt x 614.295pt>
+File: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesy
+generalizaciones.pdf Graphic file (type pdf)
+
+<use /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesyg
+eneralizaciones.pdf, page 17>
+Package pdftex.def Info: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcion
+clasesasociacionesygeneralizaciones.pdf, page17 used on input line 460.
+(pdftex.def)             Requested size: 598.22752pt x 462.26671pt.
+File: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesy
+generalizaciones.pdf Graphic file (type pdf)
+
+<use /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesyg
+eneralizaciones.pdf, page 17>
+Package pdftex.def Info: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcion
+clasesasociacionesygeneralizaciones.pdf, page17 used on input line 460.
+(pdftex.def)             Requested size: 598.22752pt x 462.26671pt.
+File: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesy
+generalizaciones.pdf Graphic file (type pdf)
+
+<use /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesyg
+eneralizaciones.pdf, page 17>
+Package pdftex.def Info: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcion
+clasesasociacionesygeneralizaciones.pdf, page17 used on input line 460.
+(pdftex.def)             Requested size: 598.22752pt x 462.26671pt.
+ [47 </Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesy
+generalizaciones.pdf>]
+</Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesygener
+alizaciones.pdf, id=284, page=18, 794.97pt x 614.295pt>
+File: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesy
+generalizaciones.pdf Graphic file (type pdf)
+
+<use /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesyg
+eneralizaciones.pdf, page 18>
+Package pdftex.def Info: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcion
+clasesasociacionesygeneralizaciones.pdf, page18 used on input line 460.
+(pdftex.def)             Requested size: 598.22752pt x 462.26671pt.
+File: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesy
+generalizaciones.pdf Graphic file (type pdf)
+
+<use /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesyg
+eneralizaciones.pdf, page 18>
+Package pdftex.def Info: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcion
+clasesasociacionesygeneralizaciones.pdf, page18 used on input line 460.
+(pdftex.def)             Requested size: 598.22752pt x 462.26671pt.
+File: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesy
+generalizaciones.pdf Graphic file (type pdf)
+
+<use /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesyg
+eneralizaciones.pdf, page 18>
+Package pdftex.def Info: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcion
+clasesasociacionesygeneralizaciones.pdf, page18 used on input line 460.
+(pdftex.def)             Requested size: 598.22752pt x 462.26671pt.
+ [48 </Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesy
+generalizaciones.pdf>]
+</Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesygener
+alizaciones.pdf, id=289, page=19, 794.97pt x 614.295pt>
+File: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesy
+generalizaciones.pdf Graphic file (type pdf)
+
+<use /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesyg
+eneralizaciones.pdf, page 19>
+Package pdftex.def Info: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcion
+clasesasociacionesygeneralizaciones.pdf, page19 used on input line 460.
+(pdftex.def)             Requested size: 598.22752pt x 462.26671pt.
+File: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesy
+generalizaciones.pdf Graphic file (type pdf)
+
+<use /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesyg
+eneralizaciones.pdf, page 19>
+Package pdftex.def Info: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcion
+clasesasociacionesygeneralizaciones.pdf, page19 used on input line 460.
+(pdftex.def)             Requested size: 598.22752pt x 462.26671pt.
+File: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesy
+generalizaciones.pdf Graphic file (type pdf)
+
+<use /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesyg
+eneralizaciones.pdf, page 19>
+Package pdftex.def Info: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcion
+clasesasociacionesygeneralizaciones.pdf, page19 used on input line 460.
+(pdftex.def)             Requested size: 598.22752pt x 462.26671pt.
+ [49 </Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesy
+generalizaciones.pdf>]
+</Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesygener
+alizaciones.pdf, id=295, page=20, 794.97pt x 614.295pt>
+File: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesy
+generalizaciones.pdf Graphic file (type pdf)
+
+<use /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesyg
+eneralizaciones.pdf, page 20>
+Package pdftex.def Info: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcion
+clasesasociacionesygeneralizaciones.pdf, page20 used on input line 460.
+(pdftex.def)             Requested size: 598.22752pt x 462.26671pt.
+File: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesy
+generalizaciones.pdf Graphic file (type pdf)
+
+<use /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesyg
+eneralizaciones.pdf, page 20>
+Package pdftex.def Info: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcion
+clasesasociacionesygeneralizaciones.pdf, page20 used on input line 460.
+(pdftex.def)             Requested size: 598.22752pt x 462.26671pt.
+File: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesy
+generalizaciones.pdf Graphic file (type pdf)
+
+<use /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesyg
+eneralizaciones.pdf, page 20>
+Package pdftex.def Info: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcion
+clasesasociacionesygeneralizaciones.pdf, page20 used on input line 460.
+(pdftex.def)             Requested size: 598.22752pt x 462.26671pt.
+ [50 </Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesy
+generalizaciones.pdf>]
+</Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesygener
+alizaciones.pdf, id=300, page=21, 794.97pt x 614.295pt>
+File: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesy
+generalizaciones.pdf Graphic file (type pdf)
+
+<use /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesyg
+eneralizaciones.pdf, page 21>
+Package pdftex.def Info: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcion
+clasesasociacionesygeneralizaciones.pdf, page21 used on input line 460.
+(pdftex.def)             Requested size: 598.22752pt x 462.26671pt.
+File: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesy
+generalizaciones.pdf Graphic file (type pdf)
+
+<use /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesyg
+eneralizaciones.pdf, page 21>
+Package pdftex.def Info: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcion
+clasesasociacionesygeneralizaciones.pdf, page21 used on input line 460.
+(pdftex.def)             Requested size: 598.22752pt x 462.26671pt.
+File: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesy
+generalizaciones.pdf Graphic file (type pdf)
+
+<use /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesyg
+eneralizaciones.pdf, page 21>
+Package pdftex.def Info: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcion
+clasesasociacionesygeneralizaciones.pdf, page21 used on input line 460.
+(pdftex.def)             Requested size: 598.22752pt x 462.26671pt.
+ [51 </Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesy
+generalizaciones.pdf>]
+</Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesygener
+alizaciones.pdf, id=305, page=22, 794.97pt x 614.295pt>
+File: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesy
+generalizaciones.pdf Graphic file (type pdf)
+
+<use /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesyg
+eneralizaciones.pdf, page 22>
+Package pdftex.def Info: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcion
+clasesasociacionesygeneralizaciones.pdf, page22 used on input line 460.
+(pdftex.def)             Requested size: 598.22752pt x 462.26671pt.
+File: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesy
+generalizaciones.pdf Graphic file (type pdf)
+
+<use /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesyg
+eneralizaciones.pdf, page 22>
+Package pdftex.def Info: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcion
+clasesasociacionesygeneralizaciones.pdf, page22 used on input line 460.
+(pdftex.def)             Requested size: 598.22752pt x 462.26671pt.
+File: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesy
+generalizaciones.pdf Graphic file (type pdf)
+
+<use /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesyg
+eneralizaciones.pdf, page 22>
+Package pdftex.def Info: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcion
+clasesasociacionesygeneralizaciones.pdf, page22 used on input line 460.
+(pdftex.def)             Requested size: 598.22752pt x 462.26671pt.
+ [52 </Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesy
+generalizaciones.pdf>]
+</Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesygener
+alizaciones.pdf, id=310, page=23, 794.97pt x 614.295pt>
+File: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesy
+generalizaciones.pdf Graphic file (type pdf)
+
+<use /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesyg
+eneralizaciones.pdf, page 23>
+Package pdftex.def Info: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcion
+clasesasociacionesygeneralizaciones.pdf, page23 used on input line 460.
+(pdftex.def)             Requested size: 598.22752pt x 462.26671pt.
+File: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesy
+generalizaciones.pdf Graphic file (type pdf)
+
+<use /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesyg
+eneralizaciones.pdf, page 23>
+Package pdftex.def Info: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcion
+clasesasociacionesygeneralizaciones.pdf, page23 used on input line 460.
+(pdftex.def)             Requested size: 598.22752pt x 462.26671pt.
+File: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesy
+generalizaciones.pdf Graphic file (type pdf)
+
+<use /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesyg
+eneralizaciones.pdf, page 23>
+Package pdftex.def Info: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcion
+clasesasociacionesygeneralizaciones.pdf, page23 used on input line 460.
+(pdftex.def)             Requested size: 598.22752pt x 462.26671pt.
+ [53 </Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesy
+generalizaciones.pdf>]
+</Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesygener
+alizaciones.pdf, id=315, page=24, 794.97pt x 614.295pt>
+File: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesy
+generalizaciones.pdf Graphic file (type pdf)
+
+<use /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesyg
+eneralizaciones.pdf, page 24>
+Package pdftex.def Info: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcion
+clasesasociacionesygeneralizaciones.pdf, page24 used on input line 460.
+(pdftex.def)             Requested size: 598.22752pt x 462.26671pt.
+File: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesy
+generalizaciones.pdf Graphic file (type pdf)
+
+<use /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesyg
+eneralizaciones.pdf, page 24>
+Package pdftex.def Info: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcion
+clasesasociacionesygeneralizaciones.pdf, page24 used on input line 460.
+(pdftex.def)             Requested size: 598.22752pt x 462.26671pt.
+File: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesy
+generalizaciones.pdf Graphic file (type pdf)
+
+<use /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesyg
+eneralizaciones.pdf, page 24>
+Package pdftex.def Info: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcion
+clasesasociacionesygeneralizaciones.pdf, page24 used on input line 460.
+(pdftex.def)             Requested size: 598.22752pt x 462.26671pt.
+ [54 </Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesy
+generalizaciones.pdf>]
+</Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesygener
+alizaciones.pdf, id=320, page=25, 794.97pt x 614.295pt>
+File: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesy
+generalizaciones.pdf Graphic file (type pdf)
+
+<use /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesyg
+eneralizaciones.pdf, page 25>
+Package pdftex.def Info: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcion
+clasesasociacionesygeneralizaciones.pdf, page25 used on input line 460.
+(pdftex.def)             Requested size: 598.22752pt x 462.26671pt.
+File: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesy
+generalizaciones.pdf Graphic file (type pdf)
+
+<use /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesyg
+eneralizaciones.pdf, page 25>
+Package pdftex.def Info: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcion
+clasesasociacionesygeneralizaciones.pdf, page25 used on input line 460.
+(pdftex.def)             Requested size: 598.22752pt x 462.26671pt.
+File: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesy
+generalizaciones.pdf Graphic file (type pdf)
+
+<use /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesyg
+eneralizaciones.pdf, page 25>
+Package pdftex.def Info: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcion
+clasesasociacionesygeneralizaciones.pdf, page25 used on input line 460.
+(pdftex.def)             Requested size: 598.22752pt x 462.26671pt.
+ [55 </Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesy
+generalizaciones.pdf>]
+</Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesygener
+alizaciones.pdf, id=326, page=26, 794.97pt x 614.295pt>
+File: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesy
+generalizaciones.pdf Graphic file (type pdf)
+
+<use /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesyg
+eneralizaciones.pdf, page 26>
+Package pdftex.def Info: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcion
+clasesasociacionesygeneralizaciones.pdf, page26 used on input line 460.
+(pdftex.def)             Requested size: 598.22752pt x 462.26671pt.
+File: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesy
+generalizaciones.pdf Graphic file (type pdf)
+
+<use /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesyg
+eneralizaciones.pdf, page 26>
+Package pdftex.def Info: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcion
+clasesasociacionesygeneralizaciones.pdf, page26 used on input line 460.
+(pdftex.def)             Requested size: 598.22752pt x 462.26671pt.
+File: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesy
+generalizaciones.pdf Graphic file (type pdf)
+
+<use /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesyg
+eneralizaciones.pdf, page 26>
+Package pdftex.def Info: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcion
+clasesasociacionesygeneralizaciones.pdf, page26 used on input line 460.
+(pdftex.def)             Requested size: 598.22752pt x 462.26671pt.
+ [56 </Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesy
+generalizaciones.pdf>]
+</Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesygener
+alizaciones.pdf, id=331, page=27, 794.97pt x 614.295pt>
+File: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesy
+generalizaciones.pdf Graphic file (type pdf)
+
+<use /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesyg
+eneralizaciones.pdf, page 27>
+Package pdftex.def Info: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcion
+clasesasociacionesygeneralizaciones.pdf, page27 used on input line 460.
+(pdftex.def)             Requested size: 598.22752pt x 462.26671pt.
+File: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesy
+generalizaciones.pdf Graphic file (type pdf)
+
+<use /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesyg
+eneralizaciones.pdf, page 27>
+Package pdftex.def Info: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcion
+clasesasociacionesygeneralizaciones.pdf, page27 used on input line 460.
+(pdftex.def)             Requested size: 598.22752pt x 462.26671pt.
+File: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesy
+generalizaciones.pdf Graphic file (type pdf)
+
+<use /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesyg
+eneralizaciones.pdf, page 27>
+Package pdftex.def Info: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcion
+clasesasociacionesygeneralizaciones.pdf, page27 used on input line 460.
+(pdftex.def)             Requested size: 598.22752pt x 462.26671pt.
+ [57 </Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesy
+generalizaciones.pdf>]
+</Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesygener
+alizaciones.pdf, id=336, page=28, 794.97pt x 614.295pt>
+File: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesy
+generalizaciones.pdf Graphic file (type pdf)
+
+<use /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesyg
+eneralizaciones.pdf, page 28>
+Package pdftex.def Info: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcion
+clasesasociacionesygeneralizaciones.pdf, page28 used on input line 460.
+(pdftex.def)             Requested size: 598.22752pt x 462.26671pt.
+File: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesy
+generalizaciones.pdf Graphic file (type pdf)
+
+<use /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesyg
+eneralizaciones.pdf, page 28>
+Package pdftex.def Info: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcion
+clasesasociacionesygeneralizaciones.pdf, page28 used on input line 460.
+(pdftex.def)             Requested size: 598.22752pt x 462.26671pt.
+File: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesy
+generalizaciones.pdf Graphic file (type pdf)
+
+<use /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesyg
+eneralizaciones.pdf, page 28>
+Package pdftex.def Info: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcion
+clasesasociacionesygeneralizaciones.pdf, page28 used on input line 460.
+(pdftex.def)             Requested size: 598.22752pt x 462.26671pt.
+ [58 </Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesy
+generalizaciones.pdf>]
+</Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesygener
+alizaciones.pdf, id=341, page=29, 794.97pt x 614.295pt>
+File: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesy
+generalizaciones.pdf Graphic file (type pdf)
+
+<use /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesyg
+eneralizaciones.pdf, page 29>
+Package pdftex.def Info: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcion
+clasesasociacionesygeneralizaciones.pdf, page29 used on input line 460.
+(pdftex.def)             Requested size: 598.22752pt x 462.26671pt.
+File: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesy
+generalizaciones.pdf Graphic file (type pdf)
+
+<use /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesyg
+eneralizaciones.pdf, page 29>
+Package pdftex.def Info: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcion
+clasesasociacionesygeneralizaciones.pdf, page29 used on input line 460.
+(pdftex.def)             Requested size: 598.22752pt x 462.26671pt.
+File: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesy
+generalizaciones.pdf Graphic file (type pdf)
+
+<use /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesyg
+eneralizaciones.pdf, page 29>
+Package pdftex.def Info: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcion
+clasesasociacionesygeneralizaciones.pdf, page29 used on input line 460.
+(pdftex.def)             Requested size: 598.22752pt x 462.26671pt.
+ [59 </Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesy
+generalizaciones.pdf>]
+</Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesygener
+alizaciones.pdf, id=346, page=30, 794.97pt x 614.295pt>
+File: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesy
+generalizaciones.pdf Graphic file (type pdf)
+
+<use /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesyg
+eneralizaciones.pdf, page 30>
+Package pdftex.def Info: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcion
+clasesasociacionesygeneralizaciones.pdf, page30 used on input line 460.
+(pdftex.def)             Requested size: 598.22752pt x 462.26671pt.
+File: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesy
+generalizaciones.pdf Graphic file (type pdf)
+
+<use /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesyg
+eneralizaciones.pdf, page 30>
+Package pdftex.def Info: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcion
+clasesasociacionesygeneralizaciones.pdf, page30 used on input line 460.
+(pdftex.def)             Requested size: 598.22752pt x 462.26671pt.
+File: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesy
+generalizaciones.pdf Graphic file (type pdf)
+
+<use /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesyg
+eneralizaciones.pdf, page 30>
+Package pdftex.def Info: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcion
+clasesasociacionesygeneralizaciones.pdf, page30 used on input line 460.
+(pdftex.def)             Requested size: 598.22752pt x 462.26671pt.
+ [60 </Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesy
+generalizaciones.pdf>]
+</Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesygener
+alizaciones.pdf, id=351, page=31, 794.97pt x 614.295pt>
+File: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesy
+generalizaciones.pdf Graphic file (type pdf)
+
+<use /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesyg
+eneralizaciones.pdf, page 31>
+Package pdftex.def Info: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcion
+clasesasociacionesygeneralizaciones.pdf, page31 used on input line 460.
+(pdftex.def)             Requested size: 598.22752pt x 462.26671pt.
+File: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesy
+generalizaciones.pdf Graphic file (type pdf)
+
+<use /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesyg
+eneralizaciones.pdf, page 31>
+Package pdftex.def Info: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcion
+clasesasociacionesygeneralizaciones.pdf, page31 used on input line 460.
+(pdftex.def)             Requested size: 598.22752pt x 462.26671pt.
+File: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesy
+generalizaciones.pdf Graphic file (type pdf)
+
+<use /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesyg
+eneralizaciones.pdf, page 31>
+Package pdftex.def Info: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcion
+clasesasociacionesygeneralizaciones.pdf, page31 used on input line 460.
+(pdftex.def)             Requested size: 598.22752pt x 462.26671pt.
+ [61 </Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesy
+generalizaciones.pdf>]
+</Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesygener
+alizaciones.pdf, id=357, page=32, 794.97pt x 614.295pt>
+File: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesy
+generalizaciones.pdf Graphic file (type pdf)
+
+<use /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesyg
+eneralizaciones.pdf, page 32>
+Package pdftex.def Info: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcion
+clasesasociacionesygeneralizaciones.pdf, page32 used on input line 460.
+(pdftex.def)             Requested size: 598.22752pt x 462.26671pt.
+File: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesy
+generalizaciones.pdf Graphic file (type pdf)
+
+<use /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesyg
+eneralizaciones.pdf, page 32>
+Package pdftex.def Info: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcion
+clasesasociacionesygeneralizaciones.pdf, page32 used on input line 460.
+(pdftex.def)             Requested size: 598.22752pt x 462.26671pt.
+File: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesy
+generalizaciones.pdf Graphic file (type pdf)
+
+<use /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesyg
+eneralizaciones.pdf, page 32>
+Package pdftex.def Info: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcion
+clasesasociacionesygeneralizaciones.pdf, page32 used on input line 460.
+(pdftex.def)             Requested size: 598.22752pt x 462.26671pt.
+ [62 </Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesy
+generalizaciones.pdf>]
+</Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesygener
+alizaciones.pdf, id=362, page=33, 794.97pt x 614.295pt>
+File: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesy
+generalizaciones.pdf Graphic file (type pdf)
+
+<use /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesyg
+eneralizaciones.pdf, page 33>
+Package pdftex.def Info: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcion
+clasesasociacionesygeneralizaciones.pdf, page33 used on input line 460.
+(pdftex.def)             Requested size: 598.22752pt x 462.26671pt.
+File: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesy
+generalizaciones.pdf Graphic file (type pdf)
+
+<use /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesyg
+eneralizaciones.pdf, page 33>
+Package pdftex.def Info: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcion
+clasesasociacionesygeneralizaciones.pdf, page33 used on input line 460.
+(pdftex.def)             Requested size: 598.22752pt x 462.26671pt.
+File: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesy
+generalizaciones.pdf Graphic file (type pdf)
+
+<use /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesyg
+eneralizaciones.pdf, page 33>
+Package pdftex.def Info: /Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcion
+clasesasociacionesygeneralizaciones.pdf, page33 used on input line 460.
+(pdftex.def)             Requested size: 598.22752pt x 462.26671pt.
+ [63 </Users/Julio/Dropbox/CI5311/Proyecto/Fase2/Descripcionclasesasociacionesy
+generalizaciones.pdf>] [64]
+</Users/julio/Dropbox/CI5311/Proyecto/Fase2/Diagramas/DiagramaUSBNuevo.jpg, id=
+370, 2596.05176pt x 1990.96765pt>
+File: /Users/julio/Dropbox/CI5311/Proyecto/Fase2/Diagramas/DiagramaUSBNuevo.jpg
+ Graphic file (type jpg)
+
+<use /Users/julio/Dropbox/CI5311/Proyecto/Fase2/Diagramas/DiagramaUSBNuevo.jpg>
+Package pdftex.def Info: /Users/julio/Dropbox/CI5311/Proyecto/Fase2/Diagramas/D
+iagramaUSBNuevo.jpg used on input line 466.
+(pdftex.def)             Requested size: 620.09857pt x 475.56352pt.
+
+Overfull \hbox (28.09857pt too wide) in paragraph at lines 466--467
+[][] 
+ []
+
+
+LaTeX Warning: Float too large for page by 85.56352pt on input line 467.
+
+[65 </Users/julio/Dropbox/CI5311/Proyecto/Fase2/Diagramas/DiagramaUSBNuevo.jpg>
+] [66
+
+
+]
+</Users/julio/Dropbox/CI5311/Proyecto/Fase2/Diagramas/ServicioTerceros.jpeg, id
+=377, 1882.03125pt x 944.52875pt>
+File: /Users/julio/Dropbox/CI5311/Proyecto/Fase2/Diagramas/ServicioTerceros.jpe
+g Graphic file (type jpg)
+
+<use /Users/julio/Dropbox/CI5311/Proyecto/Fase2/Diagramas/ServicioTerceros.jpeg
+>
+Package pdftex.def Info: /Users/julio/Dropbox/CI5311/Proyecto/Fase2/Diagramas/S
+ervicioTerceros.jpeg used on input line 474.
+(pdftex.def)             Requested size: 713.70071pt x 358.17522pt.
+
+Overfull \hbox (121.70071pt too wide) in paragraph at lines 474--475
+[][] 
+ []
+
+[67 </Users/julio/Dropbox/CI5311/Proyecto/Fase2/Diagramas/ServicioTerceros.jpeg
+>]
+Underfull \hbox (badness 10000) in paragraph at lines 480--483
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 480--483
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 484--491
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 484--491
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 495--499
+
+ []
+
+[68
+
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 505--509
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 519--526
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 519--526
+
+ []
+
+[69]
+Underfull \hbox (badness 10000) in paragraph at lines 527--531
+
+ []
+
+[70] [71]
+</Users/julio/Dropbox/CI5311/Proyecto/Fase2/Diagramas/DiagramaUSB_Modificado.jp
+eg, id=395, 1856.9375pt x 1329.96875pt>
+File: /Users/julio/Dropbox/CI5311/Proyecto/Fase2/Diagramas/DiagramaUSB_Modifica
+do.jpeg Graphic file (type jpg)
+
+<use /Users/julio/Dropbox/CI5311/Proyecto/Fase2/Diagramas/DiagramaUSB_Modificad
+o.jpeg>
+Package pdftex.def Info: /Users/julio/Dropbox/CI5311/Proyecto/Fase2/Diagramas/D
+iagramaUSB_Modificado.jpeg used on input line 552.
+(pdftex.def)             Requested size: 662.99881pt x 474.85143pt.
+
+Overfull \hbox (70.99881pt too wide) in paragraph at lines 552--553
+[][] 
+ []
+
+
+LaTeX Warning: Float too large for page by 84.85143pt on input line 553.
+
+[72 </Users/julio/Dropbox/CI5311/Proyecto/Fase2/Diagramas/DiagramaUSB_Modificad
+o.jpeg>] [73
+
+
+]
+</Users/julio/Dropbox/CI5311/Proyecto/Fase2/Diagramas/ServicioTercerosModificad
+os.jpeg, id=403, 1831.84375pt x 944.52875pt>
+File: /Users/julio/Dropbox/CI5311/Proyecto/Fase2/Diagramas/ServicioTercerosModi
+ficados.jpeg Graphic file (type jpg)
+
+<use /Users/julio/Dropbox/CI5311/Proyecto/Fase2/Diagramas/ServicioTercerosModif
+icados.jpeg>
+Package pdftex.def Info: /Users/julio/Dropbox/CI5311/Proyecto/Fase2/Diagramas/S
+ervicioTercerosModificados.jpeg used on input line 559.
+(pdftex.def)             Requested size: 702.00119pt x 361.96565pt.
+
+Overfull \hbox (110.00119pt too wide) in paragraph at lines 559--560
+[][] 
+ []
+
+[74 </Users/julio/Dropbox/CI5311/Proyecto/Fase2/Diagramas/ServicioTercerosModif
+icados.jpeg>] [75
+
+
+]
+</Users/julio/Dropbox/CI5311/Proyecto/Fase2/Diagramas/Integrado.jpeg, id=410, 3
+062.44125pt x 1521.685pt>
+File: /Users/julio/Dropbox/CI5311/Proyecto/Fase2/Diagramas/Integrado.jpeg Graph
+ic file (type jpg)
+
+<use /Users/julio/Dropbox/CI5311/Proyecto/Fase2/Diagramas/Integrado.jpeg>
+Package pdftex.def Info: /Users/julio/Dropbox/CI5311/Proyecto/Fase2/Diagramas/I
+ntegrado.jpeg used on input line 565.
+(pdftex.def)             Requested size: 721.50238pt x 358.50157pt.
+
+Overfull \hbox (129.50238pt too wide) in paragraph at lines 565--566
+[][] 
+ []
+
+[76 </Users/julio/Dropbox/CI5311/Proyecto/Fase2/Diagramas/Integrado.jpeg>]
+(./InformeFase2.aux) ) 
+Here is how much of TeX's memory you used:
+ 3551 strings out of 494752
+ 63458 string characters out of 3171020
+ 147977 words of memory out of 3000000
+ 6706 multiletter control sequences out of 15000+200000
+ 9502 words of font info for 33 fonts, out of 3000000 for 9000
+ 166 hyphenation exceptions out of 8191
+ 41i,18n,47p,676b,407s stack positions out of 5000i,500n,10000p,200000b,50000s
+</usr/local/texlive/2011basic/texmf-dist/fonts/type1/publ
+ic/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2011basic/texmf-dist/fonts/type1/
+public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2011basic/texmf-dist/fonts/typ
+e1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2011basic/texmf-dist/fonts/
+type1/public/amsfonts/cm/cmti12.pfb>
+Output written on InformeFase2.pdf (76 pages, 1866193 bytes).
+PDF statistics:
+ 432 PDF objects out of 1000 (max. 8388607)
+ 242 compressed objects within 3 object streams
+ 0 named destinations out of 1000 (max. 500000)
+ 301 words of extra memory for PDF output out of 10000 (max. 10000000)
+
